@@ -1,0 +1,1491 @@
+ID,Age,Employment Type,GraduateOrNot,AnnualIncome,FamilyMembers,ChronicDiseases,FrequentFlyer,EverTravelledAbroad
+1704,26,Private Sector/Self Employed,Yes,1400000,3,1,No,Yes
+491,28,Private Sector/Self Employed,Yes,1100000,4,1,No,No
+414,33,Private Sector/Self Employed,Yes,1400000,4,0,No,Yes
+120,28,Private Sector/Self Employed,Yes,800000,3,1,No,No
+1268,33,Government Sector,Yes,1000000,5,0,No,Yes
+1026,28,Private Sector/Self Employed,Yes,700000,4,0,No,No
+1081,26,Government Sector,Yes,1450000,5,0,Yes,Yes
+652,33,Government Sector,Yes,800000,6,0,No,No
+649,28,Government Sector,Yes,300000,5,0,No,No
+871,25,Private Sector/Self Employed,No,1700000,5,1,Yes,Yes
+1630,31,Private Sector/Self Employed,Yes,900000,4,1,No,No
+1695,35,Government Sector,Yes,1100000,5,0,No,No
+991,30,Private Sector/Self Employed,No,1450000,7,0,Yes,Yes
+1312,34,Private Sector/Self Employed,Yes,1300000,5,0,No,No
+950,28,Private Sector/Self Employed,Yes,550000,5,0,No,No
+1102,29,Private Sector/Self Employed,Yes,1200000,5,1,No,No
+1187,29,Private Sector/Self Employed,Yes,1200000,6,1,No,No
+1366,31,Government Sector,No,1750000,2,0,No,No
+526,31,Private Sector/Self Employed,Yes,1100000,4,1,No,No
+578,34,Private Sector/Self Employed,Yes,1000000,4,0,No,No
+300,32,Government Sector,Yes,900000,5,1,No,No
+1883,27,Government Sector,Yes,500000,4,0,No,No
+1627,29,Private Sector/Self Employed,Yes,1050000,3,0,No,No
+401,34,Private Sector/Self Employed,Yes,700000,4,0,No,No
+1309,33,Private Sector/Self Employed,Yes,1400000,4,0,No,Yes
+402,31,Private Sector/Self Employed,Yes,1250000,3,0,No,No
+1575,30,Private Sector/Self Employed,No,550000,3,0,No,No
+1759,25,Government Sector,Yes,750000,2,0,Yes,No
+1927,34,Private Sector/Self Employed,Yes,1000000,4,0,No,No
+363,34,Government Sector,Yes,1300000,4,0,No,No
+1515,32,Government Sector,Yes,350000,3,1,No,No
+656,31,Private Sector/Self Employed,Yes,500000,6,1,No,No
+1161,28,Private Sector/Self Employed,Yes,600000,3,0,No,No
+373,28,Private Sector/Self Employed,Yes,900000,5,0,Yes,No
+801,31,Private Sector/Self Employed,Yes,500000,4,1,No,No
+904,28,Government Sector,Yes,300000,6,0,No,No
+172,27,Private Sector/Self Employed,No,600000,8,0,No,No
+1838,28,Private Sector/Self Employed,Yes,700000,4,1,No,Yes
+1148,28,Private Sector/Self Employed,Yes,700000,5,0,Yes,No
+1957,31,Private Sector/Self Employed,Yes,1250000,7,0,No,No
+617,30,Private Sector/Self Employed,No,550000,5,0,Yes,No
+542,27,Private Sector/Self Employed,No,600000,4,0,Yes,No
+1579,28,Private Sector/Self Employed,Yes,1200000,3,1,Yes,No
+1842,34,Private Sector/Self Employed,Yes,700000,4,1,Yes,No
+1843,28,Private Sector/Self Employed,Yes,1200000,4,0,No,No
+936,33,Government Sector,Yes,800000,3,0,No,No
+508,28,Private Sector/Self Employed,Yes,900000,6,0,No,No
+1597,31,Private Sector/Self Employed,Yes,1250000,6,0,No,No
+839,26,Private Sector/Self Employed,Yes,1250000,4,0,No,No
+631,33,Private Sector/Self Employed,Yes,1400000,6,1,No,Yes
+1028,25,Private Sector/Self Employed,No,1150000,3,1,No,No
+233,31,Government Sector,Yes,1200000,6,1,No,No
+808,34,Private Sector/Self Employed,Yes,1500000,6,0,Yes,Yes
+1129,26,Private Sector/Self Employed,Yes,1500000,2,0,Yes,Yes
+1908,28,Private Sector/Self Employed,Yes,800000,4,0,No,No
+410,28,Private Sector/Self Employed,No,550000,4,0,No,No
+452,34,Private Sector/Self Employed,Yes,1300000,4,1,No,No
+41,33,Private Sector/Self Employed,Yes,550000,5,0,No,No
+1741,28,Private Sector/Self Employed,Yes,800000,3,0,No,No
+1122,34,Private Sector/Self Employed,Yes,700000,5,0,Yes,No
+142,32,Government Sector,Yes,350000,9,1,No,No
+124,32,Government Sector,Yes,350000,4,1,No,No
+1983,28,Private Sector/Self Employed,Yes,1750000,5,1,No,Yes
+196,34,Private Sector/Self Employed,Yes,1000000,7,0,No,No
+1159,31,Private Sector/Self Employed,Yes,1250000,3,0,No,No
+1638,29,Private Sector/Self Employed,Yes,1200000,4,0,No,No
+278,32,Government Sector,Yes,800000,5,1,No,No
+718,27,Government Sector,Yes,900000,4,0,No,No
+1596,31,Government Sector,No,400000,3,0,No,No
+708,34,Private Sector/Self Employed,Yes,1000000,3,0,No,No
+480,34,Private Sector/Self Employed,Yes,1050000,7,0,Yes,No
+1232,31,Government Sector,No,350000,4,1,No,No
+1024,32,Government Sector,Yes,800000,9,0,No,Yes
+260,26,Private Sector/Self Employed,Yes,1400000,3,1,No,Yes
+377,27,Private Sector/Self Employed,No,1550000,4,0,Yes,No
+1147,26,Private Sector/Self Employed,Yes,1500000,3,0,Yes,Yes
+58,33,Private Sector/Self Employed,Yes,1400000,6,0,Yes,Yes
+1085,28,Private Sector/Self Employed,Yes,1250000,7,0,No,No
+1599,27,Government Sector,Yes,850000,3,0,No,No
+547,26,Private Sector/Self Employed,Yes,1400000,4,1,No,Yes
+1658,35,Private Sector/Self Employed,No,950000,6,0,No,Yes
+1492,27,Private Sector/Self Employed,No,1000000,6,0,No,No
+1580,28,Private Sector/Self Employed,Yes,1200000,5,1,Yes,No
+571,32,Government Sector,Yes,850000,5,1,No,No
+1279,29,Private Sector/Self Employed,Yes,1200000,5,0,Yes,No
+1923,26,Private Sector/Self Employed,Yes,750000,3,0,No,No
+1939,27,Private Sector/Self Employed,No,450000,8,0,No,No
+1952,31,Government Sector,Yes,1500000,4,0,Yes,Yes
+1740,26,Private Sector/Self Employed,Yes,600000,7,0,No,No
+64,30,Private Sector/Self Employed,No,1450000,9,0,Yes,Yes
+1626,26,Private Sector/Self Employed,Yes,600000,3,0,No,No
+1443,29,Private Sector/Self Employed,Yes,1200000,7,1,No,No
+1152,28,Government Sector,Yes,300000,4,0,No,No
+697,25,Private Sector/Self Employed,Yes,1400000,3,1,No,Yes
+1245,26,Private Sector/Self Employed,Yes,1400000,3,0,No,Yes
+748,28,Private Sector/Self Employed,Yes,650000,5,0,No,Yes
+1874,29,Private Sector/Self Employed,Yes,500000,3,0,No,No
+1703,31,Private Sector/Self Employed,Yes,900000,5,1,No,No
+989,33,Government Sector,Yes,400000,7,1,No,No
+201,31,Private Sector/Self Employed,Yes,1400000,2,0,No,Yes
+514,28,Private Sector/Self Employed,Yes,500000,4,0,No,No
+1052,29,Private Sector/Self Employed,Yes,1200000,7,1,No,No
+518,29,Private Sector/Self Employed,Yes,1350000,4,0,Yes,Yes
+476,33,Private Sector/Self Employed,Yes,1400000,4,1,No,Yes
+1420,33,Government Sector,Yes,700000,3,0,No,No
+1754,30,Private Sector/Self Employed,No,1450000,4,1,Yes,Yes
+1212,34,Private Sector/Self Employed,No,1300000,5,0,No,No
+1524,29,Private Sector/Self Employed,Yes,1200000,3,0,No,No
+590,28,Private Sector/Self Employed,Yes,500000,5,0,No,No
+228,34,Private Sector/Self Employed,Yes,1000000,5,0,No,No
+1254,34,Private Sector/Self Employed,Yes,700000,8,0,No,No
+1180,26,Private Sector/Self Employed,Yes,500000,6,0,No,No
+1589,25,Private Sector/Self Employed,Yes,1400000,4,0,Yes,Yes
+949,29,Private Sector/Self Employed,Yes,1200000,3,1,No,Yes
+1686,28,Private Sector/Self Employed,Yes,800000,6,0,No,Yes
+459,34,Private Sector/Self Employed,Yes,1500000,5,0,Yes,Yes
+37,34,Private Sector/Self Employed,Yes,700000,4,0,No,No
+1728,26,Private Sector/Self Employed,Yes,500000,6,0,No,No
+1824,28,Private Sector/Self Employed,Yes,800000,4,1,Yes,No
+1195,31,Private Sector/Self Employed,Yes,900000,3,0,No,No
+329,28,Private Sector/Self Employed,Yes,1100000,8,0,No,No
+1364,29,Private Sector/Self Employed,Yes,350000,6,1,No,No
+1783,29,Private Sector/Self Employed,Yes,1200000,9,0,No,No
+235,30,Private Sector/Self Employed,No,550000,4,0,No,No
+159,27,Government Sector,Yes,900000,7,1,No,No
+700,28,Private Sector/Self Employed,Yes,1450000,4,0,Yes,Yes
+693,27,Private Sector/Self Employed,No,800000,5,1,No,No
+1004,31,Government Sector,No,400000,4,1,No,No
+1864,31,Government Sector,Yes,400000,6,1,No,No
+1863,34,Private Sector/Self Employed,Yes,500000,5,0,No,No
+1693,31,Government Sector,Yes,1300000,2,0,Yes,No
+1514,34,Private Sector/Self Employed,Yes,1000000,6,1,No,No
+1623,33,Private Sector/Self Employed,Yes,1400000,3,0,No,Yes
+1875,26,Private Sector/Self Employed,Yes,1400000,5,0,No,Yes
+1463,28,Private Sector/Self Employed,Yes,1150000,6,0,No,No
+221,28,Private Sector/Self Employed,Yes,1200000,6,1,No,No
+877,26,Private Sector/Self Employed,Yes,1400000,3,0,No,Yes
+1755,34,Private Sector/Self Employed,Yes,850000,5,1,No,No
+1068,27,Government Sector,Yes,500000,4,1,No,No
+15,34,Private Sector/Self Employed,Yes,700000,7,0,No,No
+170,31,Private Sector/Self Employed,Yes,1350000,6,1,No,Yes
+11,26,Private Sector/Self Employed,Yes,1400000,5,0,Yes,Yes
+1816,34,Private Sector/Self Employed,Yes,1000000,3,0,Yes,No
+1079,34,Private Sector/Self Employed,Yes,1000000,3,0,No,No
+558,34,Private Sector/Self Employed,Yes,850000,3,1,No,No
+784,31,Government Sector,Yes,1500000,5,1,Yes,Yes
+823,28,Private Sector/Self Employed,Yes,1200000,4,0,No,No
+963,26,Private Sector/Self Employed,Yes,600000,6,1,No,No
+1067,34,Private Sector/Self Employed,Yes,700000,4,0,Yes,No
+762,28,Private Sector/Self Employed,Yes,800000,5,0,No,No
+985,25,Private Sector/Self Employed,Yes,1400000,3,1,Yes,Yes
+1369,34,Private Sector/Self Employed,No,750000,4,0,Yes,No
+990,29,Private Sector/Self Employed,Yes,600000,4,0,Yes,No
+655,28,Private Sector/Self Employed,Yes,700000,4,0,No,No
+1386,28,Private Sector/Self Employed,Yes,500000,4,0,No,No
+1327,28,Private Sector/Self Employed,Yes,800000,4,0,Yes,No
+138,28,Private Sector/Self Employed,Yes,1150000,4,0,No,No
+776,25,Private Sector/Self Employed,Yes,1400000,6,0,Yes,Yes
+110,31,Government Sector,Yes,400000,5,0,No,No
+1652,34,Government Sector,Yes,1100000,7,1,Yes,No
+1496,28,Private Sector/Self Employed,Yes,750000,4,0,No,No
+1354,26,Private Sector/Self Employed,Yes,1400000,9,1,No,Yes
+1422,28,Private Sector/Self Employed,Yes,700000,4,0,Yes,No
+1353,33,Private Sector/Self Employed,Yes,1200000,2,0,No,No
+599,34,Private Sector/Self Employed,Yes,700000,4,1,No,No
+976,26,Private Sector/Self Employed,Yes,1300000,5,0,No,No
+1749,33,Government Sector,Yes,1100000,4,1,No,Yes
+1447,31,Government Sector,No,300000,3,1,No,No
+1922,34,Private Sector/Self Employed,Yes,500000,4,0,No,No
+227,34,Private Sector/Self Employed,Yes,1300000,6,1,No,No
+1235,28,Government Sector,Yes,1200000,3,0,No,No
+841,34,Private Sector/Self Employed,Yes,1500000,3,0,Yes,Yes
+1333,28,Private Sector/Self Employed,Yes,1250000,5,0,No,No
+1078,31,Government Sector,No,300000,3,0,No,No
+250,34,Private Sector/Self Employed,Yes,1000000,6,1,No,No
+1022,27,Government Sector,Yes,850000,5,0,Yes,No
+937,28,Private Sector/Self Employed,Yes,1250000,4,0,No,No
+1932,35,Private Sector/Self Employed,No,800000,4,1,No,No
+992,28,Private Sector/Self Employed,Yes,1100000,4,1,No,No
+21,29,Private Sector/Self Employed,Yes,350000,3,0,No,No
+931,28,Government Sector,Yes,1200000,6,1,No,No
+147,31,Government Sector,No,400000,4,1,No,No
+1086,28,Government Sector,Yes,300000,3,0,No,No
+1605,26,Private Sector/Self Employed,Yes,450000,4,0,No,No
+851,28,Private Sector/Self Employed,Yes,500000,5,0,No,No
+539,33,Government Sector,No,400000,4,0,No,No
+1604,29,Private Sector/Self Employed,Yes,1050000,7,0,No,No
+1059,32,Government Sector,Yes,350000,4,0,No,No
+830,34,Private Sector/Self Employed,Yes,1050000,6,0,No,No
+1160,29,Private Sector/Self Employed,Yes,1050000,3,1,No,No
+1986,34,Private Sector/Self Employed,Yes,500000,4,0,No,No
+1796,28,Private Sector/Self Employed,Yes,1200000,3,0,No,No
+1705,28,Government Sector,Yes,300000,8,0,No,No
+562,33,Government Sector,Yes,1000000,4,0,No,Yes
+1719,25,Private Sector/Self Employed,Yes,1700000,3,0,Yes,No
+1971,31,Private Sector/Self Employed,Yes,950000,5,0,No,No
+36,31,Government Sector,No,300000,9,1,No,No
+1929,28,Government Sector,Yes,600000,7,1,No,No
+915,28,Government Sector,Yes,600000,2,0,Yes,No
+1257,28,Private Sector/Self Employed,No,550000,5,0,No,No
+1958,31,Government Sector,Yes,1300000,3,1,No,No
+901,33,Government Sector,Yes,700000,2,0,No,No
+1108,35,Private Sector/Self Employed,No,950000,3,0,Yes,No
+624,34,Private Sector/Self Employed,Yes,1000000,9,0,No,No
+1549,28,Private Sector/Self Employed,Yes,700000,4,1,No,No
+1709,28,Private Sector/Self Employed,Yes,1200000,6,1,No,No
+264,29,Private Sector/Self Employed,Yes,350000,9,1,No,No
+69,31,Government Sector,No,300000,4,0,No,No
+380,28,Private Sector/Self Employed,Yes,1200000,5,1,No,No
+266,31,Government Sector,Yes,400000,5,0,No,No
+831,27,Government Sector,Yes,1050000,6,1,No,No
+805,29,Private Sector/Self Employed,Yes,1050000,3,1,Yes,No
+664,34,Private Sector/Self Employed,Yes,1500000,4,0,Yes,Yes
+663,32,Government Sector,Yes,800000,6,1,No,No
+328,34,Private Sector/Self Employed,Yes,700000,6,0,Yes,Yes
+899,25,Private Sector/Self Employed,Yes,1700000,3,0,Yes,No
+1162,34,Private Sector/Self Employed,No,1400000,4,0,No,Yes
+682,26,Private Sector/Self Employed,Yes,1500000,5,1,Yes,Yes
+55,26,Private Sector/Self Employed,Yes,750000,5,0,No,No
+1666,34,Private Sector/Self Employed,No,1300000,6,0,No,No
+1944,34,Private Sector/Self Employed,Yes,1500000,4,1,Yes,Yes
+1034,25,Private Sector/Self Employed,Yes,1400000,3,0,Yes,Yes
+1006,28,Private Sector/Self Employed,Yes,1100000,6,0,No,No
+1712,28,Private Sector/Self Employed,Yes,1400000,4,0,No,Yes
+1852,28,Private Sector/Self Employed,Yes,1200000,6,1,No,No
+662,26,Private Sector/Self Employed,Yes,500000,6,0,No,No
+1131,31,Government Sector,Yes,400000,3,0,No,No
+396,33,Government Sector,Yes,650000,6,1,No,No
+1451,25,Private Sector/Self Employed,No,1150000,4,1,No,No
+1140,28,Private Sector/Self Employed,Yes,750000,4,0,Yes,Yes
+892,29,Private Sector/Self Employed,Yes,1050000,4,0,No,No
+509,28,Private Sector/Self Employed,Yes,1450000,6,0,Yes,Yes
+1918,33,Private Sector/Self Employed,Yes,1400000,3,0,No,Yes
+1738,29,Private Sector/Self Employed,Yes,1200000,8,0,Yes,No
+1132,34,Government Sector,Yes,1300000,4,0,No,No
+1711,28,Private Sector/Self Employed,Yes,1100000,4,0,No,No
+1732,29,Private Sector/Self Employed,Yes,1200000,3,0,No,Yes
+907,26,Private Sector/Self Employed,Yes,1400000,6,0,No,Yes
+1202,31,Private Sector/Self Employed,Yes,1400000,4,0,No,Yes
+309,33,Government Sector,Yes,650000,4,0,No,No
+1834,31,Private Sector/Self Employed,Yes,1100000,4,0,Yes,No
+273,34,Private Sector/Self Employed,Yes,1000000,6,0,Yes,No
+964,33,Government Sector,Yes,400000,9,1,No,No
+361,29,Private Sector/Self Employed,Yes,1350000,4,0,No,Yes
+174,34,Private Sector/Self Employed,Yes,700000,6,0,Yes,No
+357,34,Private Sector/Self Employed,Yes,500000,5,0,No,No
+1844,27,Private Sector/Self Employed,No,350000,5,1,No,No
+1532,28,Government Sector,Yes,1200000,5,0,No,No
+1062,32,Government Sector,Yes,650000,4,0,No,No
+1730,31,Private Sector/Self Employed,Yes,1100000,4,0,No,No
+1803,33,Private Sector/Self Employed,Yes,1400000,5,0,No,Yes
+1752,26,Government Sector,Yes,500000,5,1,No,No
+850,32,Government Sector,Yes,850000,4,0,Yes,No
+1283,28,Private Sector/Self Employed,Yes,900000,2,0,Yes,No
+1063,28,Private Sector/Self Employed,Yes,1200000,6,0,No,No
+1267,31,Private Sector/Self Employed,Yes,1350000,3,0,Yes,Yes
+366,28,Government Sector,Yes,300000,3,0,No,No
+267,33,Government Sector,Yes,1100000,4,0,No,No
+1227,29,Private Sector/Self Employed,Yes,1050000,7,0,No,No
+362,28,Private Sector/Self Employed,Yes,700000,2,1,No,No
+1332,29,Private Sector/Self Employed,Yes,1200000,4,0,No,No
+1742,28,Private Sector/Self Employed,Yes,800000,3,0,No,No
+676,29,Private Sector/Self Employed,Yes,1200000,7,1,No,No
+231,31,Government Sector,Yes,1200000,5,1,No,No
+1956,32,Government Sector,Yes,350000,3,1,No,Yes
+703,27,Government Sector,Yes,500000,6,0,No,No
+317,32,Government Sector,Yes,800000,6,0,No,No
+38,34,Government Sector,Yes,1100000,2,0,No,No
+1325,30,Private Sector/Self Employed,No,800000,4,0,No,No
+1264,31,Government Sector,Yes,400000,6,0,No,No
+1098,28,Private Sector/Self Employed,Yes,1150000,6,1,No,No
+827,32,Government Sector,Yes,850000,7,1,No,No
+206,25,Private Sector/Self Employed,No,1150000,5,1,No,No
+1691,26,Private Sector/Self Employed,Yes,1400000,5,0,No,Yes
+1799,26,Government Sector,Yes,1450000,3,0,Yes,Yes
+666,28,Private Sector/Self Employed,Yes,800000,5,0,No,No
+284,28,Private Sector/Self Employed,Yes,750000,3,0,No,No
+1804,28,Private Sector/Self Employed,Yes,1100000,5,0,No,No
+186,28,Private Sector/Self Employed,Yes,500000,9,0,No,No
+1231,34,Private Sector/Self Employed,Yes,1500000,4,1,Yes,Yes
+1954,30,Private Sector/Self Employed,No,550000,6,1,No,No
+1850,28,Government Sector,Yes,300000,5,0,No,No
+1782,34,Private Sector/Self Employed,Yes,850000,4,0,No,No
+207,31,Government Sector,No,350000,3,0,No,No
+867,33,Private Sector/Self Employed,Yes,750000,5,0,No,No
+434,34,Private Sector/Self Employed,Yes,1300000,7,0,No,No
+25,35,Private Sector/Self Employed,No,800000,4,0,No,Yes
+1472,28,Private Sector/Self Employed,Yes,1200000,5,0,No,No
+190,27,Government Sector,Yes,900000,5,0,No,No
+1592,25,Private Sector/Self Employed,No,1700000,5,0,Yes,No
+1128,33,Government Sector,Yes,700000,4,0,No,No
+1033,31,Private Sector/Self Employed,Yes,1250000,4,0,No,No
+1621,31,Private Sector/Self Employed,Yes,900000,4,1,No,No
+1427,25,Private Sector/Self Employed,No,1150000,6,0,No,No
+885,32,Government Sector,Yes,350000,5,0,No,No
+1347,28,Private Sector/Self Employed,Yes,1300000,3,0,No,No
+407,25,Private Sector/Self Employed,No,1700000,6,0,Yes,No
+799,31,Government Sector,Yes,1200000,3,0,No,No
+1080,28,Private Sector/Self Employed,Yes,700000,7,0,No,No
+1317,25,Private Sector/Self Employed,No,1700000,4,0,Yes,No
+1641,28,Private Sector/Self Employed,Yes,1100000,4,0,No,No
+754,32,Government Sector,Yes,850000,3,0,No,No
+246,31,Government Sector,No,350000,6,1,No,No
+1690,35,Private Sector/Self Employed,No,800000,6,1,No,Yes
+100,28,Private Sector/Self Employed,Yes,1300000,6,1,No,No
+1885,35,Government Sector,Yes,1100000,3,0,No,No
+263,35,Private Sector/Self Employed,No,800000,4,0,No,No
+292,27,Government Sector,Yes,850000,4,0,No,No
+141,25,Private Sector/Self Employed,Yes,1400000,3,0,No,Yes
+1392,27,Government Sector,Yes,1050000,2,0,No,No
+702,28,Private Sector/Self Employed,Yes,500000,8,0,No,No
+424,29,Private Sector/Self Employed,Yes,1100000,7,1,Yes,No
+695,28,Private Sector/Self Employed,Yes,1150000,7,0,No,No
+744,29,Private Sector/Self Employed,Yes,1050000,5,1,No,Yes
+1763,29,Private Sector/Self Employed,Yes,1050000,3,0,No,No
+1828,28,Government Sector,Yes,300000,3,0,No,No
+1760,34,Private Sector/Self Employed,Yes,1500000,3,0,Yes,Yes
+1645,25,Private Sector/Self Employed,No,1150000,3,0,Yes,No
+1637,35,Private Sector/Self Employed,No,800000,5,0,No,Yes
+1900,27,Private Sector/Self Employed,No,1000000,3,1,No,No
+1723,32,Government Sector,Yes,800000,6,0,Yes,No
+1271,25,Private Sector/Self Employed,Yes,500000,4,1,No,No
+286,28,Private Sector/Self Employed,Yes,600000,3,0,No,No
+440,34,Private Sector/Self Employed,Yes,1000000,4,0,No,No
+156,28,Private Sector/Self Employed,Yes,900000,4,0,Yes,No
+326,28,Private Sector/Self Employed,Yes,1150000,5,0,No,No
+625,31,Private Sector/Self Employed,Yes,1750000,4,0,No,No
+1832,29,Private Sector/Self Employed,Yes,1050000,5,0,No,No
+464,34,Private Sector/Self Employed,Yes,1500000,5,0,Yes,Yes
+150,28,Private Sector/Self Employed,Yes,650000,2,1,No,No
+1077,27,Government Sector,Yes,1050000,4,0,No,No
+484,33,Government Sector,Yes,800000,6,0,No,No
+1015,26,Private Sector/Self Employed,Yes,1400000,4,1,No,Yes
+1629,34,Private Sector/Self Employed,Yes,1000000,5,0,Yes,No
+1560,28,Private Sector/Self Employed,Yes,1200000,4,0,No,No
+422,34,Private Sector/Self Employed,Yes,1500000,7,1,Yes,Yes
+47,35,Government Sector,Yes,1100000,5,0,No,No
+46,25,Private Sector/Self Employed,Yes,1400000,4,0,No,Yes
+782,28,Private Sector/Self Employed,Yes,1200000,4,0,No,No
+957,28,Private Sector/Self Employed,Yes,500000,5,1,No,No
+158,31,Private Sector/Self Employed,Yes,1250000,6,0,Yes,No
+1489,29,Private Sector/Self Employed,Yes,1350000,4,0,No,Yes
+639,31,Private Sector/Self Employed,Yes,1250000,5,1,Yes,No
+1495,29,Private Sector/Self Employed,Yes,600000,4,0,No,No
+1192,33,Government Sector,Yes,1100000,3,0,No,No
+1972,28,Private Sector/Self Employed,Yes,800000,5,1,No,No
+916,26,Private Sector/Self Employed,Yes,1500000,6,0,Yes,Yes
+920,32,Government Sector,Yes,650000,5,0,No,No
+1949,34,Private Sector/Self Employed,Yes,700000,6,0,No,No
+7,31,Private Sector/Self Employed,Yes,1350000,3,0,Yes,Yes
+409,28,Private Sector/Self Employed,Yes,700000,5,0,No,No
+1265,34,Private Sector/Self Employed,Yes,1000000,5,0,No,No
+1721,30,Private Sector/Self Employed,No,1450000,2,1,Yes,Yes
+1590,30,Private Sector/Self Employed,No,550000,5,0,Yes,No
+636,25,Private Sector/Self Employed,Yes,1400000,4,0,No,Yes
+13,31,Government Sector,Yes,1500000,6,0,Yes,Yes
+22,31,Private Sector/Self Employed,Yes,1100000,4,0,No,No
+39,33,Private Sector/Self Employed,Yes,1500000,5,1,Yes,Yes
+1384,34,Private Sector/Self Employed,Yes,1000000,4,0,Yes,No
+817,27,Government Sector,Yes,500000,4,0,No,No
+975,30,Private Sector/Self Employed,No,1450000,3,1,Yes,Yes
+1114,33,Government Sector,Yes,1000000,3,0,No,Yes
+1302,28,Private Sector/Self Employed,No,550000,3,0,No,No
+1797,28,Private Sector/Self Employed,Yes,800000,3,1,No,No
+721,34,Private Sector/Self Employed,Yes,1050000,4,0,No,No
+538,28,Private Sector/Self Employed,Yes,1150000,2,1,Yes,No
+1042,31,Private Sector/Self Employed,Yes,500000,2,0,No,No
+1438,32,Government Sector,Yes,850000,3,0,Yes,No
+463,33,Private Sector/Self Employed,Yes,750000,2,1,No,No
+99,29,Government Sector,Yes,600000,3,0,No,No
+977,34,Private Sector/Self Employed,Yes,1500000,2,0,Yes,Yes
+1961,26,Government Sector,Yes,500000,3,0,No,No
+1606,33,Government Sector,Yes,700000,2,0,No,No
+726,25,Private Sector/Self Employed,Yes,1700000,5,0,Yes,No
+503,31,Government Sector,Yes,1300000,5,0,No,No
+1182,28,Government Sector,Yes,300000,5,0,No,No
+787,34,Private Sector/Self Employed,Yes,1000000,4,0,No,No
+1924,33,Private Sector/Self Employed,Yes,750000,3,1,No,No
+1424,31,Government Sector,Yes,400000,9,0,No,No
+390,33,Private Sector/Self Employed,Yes,550000,5,0,No,No
+1761,30,Private Sector/Self Employed,No,500000,7,1,No,No
+1913,33,Government Sector,Yes,1100000,5,0,No,No
+1568,29,Private Sector/Self Employed,Yes,1200000,5,0,No,Yes
+1226,34,Private Sector/Self Employed,Yes,1500000,5,0,Yes,Yes
+540,26,Private Sector/Self Employed,Yes,1500000,3,0,Yes,Yes
+637,34,Private Sector/Self Employed,Yes,1300000,5,1,No,No
+576,31,Private Sector/Self Employed,Yes,1400000,3,0,No,Yes
+1674,34,Private Sector/Self Employed,No,950000,3,0,Yes,No
+807,27,Government Sector,Yes,1050000,3,0,Yes,No
+1788,26,Private Sector/Self Employed,Yes,1750000,3,0,No,No
+1014,26,Government Sector,Yes,550000,5,0,No,No
+258,29,Private Sector/Self Employed,Yes,900000,7,0,Yes,No
+204,32,Government Sector,Yes,900000,4,0,Yes,No
+210,28,Private Sector/Self Employed,Yes,1200000,5,1,Yes,No
+1708,26,Private Sector/Self Employed,Yes,1250000,3,1,No,No
+1462,28,Private Sector/Self Employed,Yes,500000,3,1,No,No
+274,32,Government Sector,Yes,850000,7,0,No,No
+613,31,Private Sector/Self Employed,Yes,1250000,6,0,No,No
+1135,28,Private Sector/Self Employed,Yes,1100000,7,1,No,No
+458,26,Private Sector/Self Employed,Yes,750000,3,1,No,No
+107,34,Private Sector/Self Employed,Yes,850000,3,1,No,Yes
+105,28,Private Sector/Self Employed,Yes,750000,3,0,No,No
+1124,29,Private Sector/Self Employed,Yes,1100000,5,0,Yes,No
+325,31,Private Sector/Self Employed,Yes,1250000,4,0,No,No
+289,26,Private Sector/Self Employed,Yes,500000,3,0,No,No
+1408,33,Government Sector,Yes,700000,7,0,No,No
+1082,29,Private Sector/Self Employed,Yes,1200000,8,1,No,No
+242,33,Government Sector,Yes,400000,4,0,No,No
+1239,34,Private Sector/Self Employed,Yes,1500000,6,1,Yes,Yes
+856,34,Private Sector/Self Employed,Yes,700000,7,0,No,No
+149,28,Private Sector/Self Employed,Yes,800000,5,1,No,No
+1099,35,Private Sector/Self Employed,No,800000,6,0,No,No
+62,28,Private Sector/Self Employed,Yes,800000,4,0,Yes,No
+1574,28,Private Sector/Self Employed,No,550000,7,0,No,No
+1848,31,Government Sector,No,400000,7,1,No,No
+1151,34,Private Sector/Self Employed,Yes,700000,7,0,No,No
+1219,34,Private Sector/Self Employed,Yes,700000,6,0,Yes,No
+191,30,Private Sector/Self Employed,No,650000,3,0,No,Yes
+582,29,Private Sector/Self Employed,Yes,1100000,3,0,No,No
+1269,31,Government Sector,Yes,1200000,3,0,No,No
+781,27,Government Sector,Yes,500000,5,0,No,No
+811,26,Private Sector/Self Employed,Yes,450000,3,0,No,No
+1236,28,Government Sector,Yes,600000,3,0,No,No
+1469,28,Government Sector,Yes,300000,6,0,No,No
+446,28,Private Sector/Self Employed,Yes,700000,2,0,No,No
+1853,34,Private Sector/Self Employed,Yes,700000,5,0,No,No
+145,28,Private Sector/Self Employed,Yes,1150000,6,0,No,No
+495,31,Government Sector,Yes,1200000,4,0,No,No
+1584,28,Government Sector,Yes,300000,3,0,No,No
+1457,25,Private Sector/Self Employed,No,600000,3,0,No,No
+791,35,Private Sector/Self Employed,No,800000,7,0,No,No
+1201,28,Private Sector/Self Employed,Yes,650000,5,0,Yes,No
+136,29,Private Sector/Self Employed,Yes,500000,6,0,No,No
+1571,34,Private Sector/Self Employed,Yes,1500000,6,0,Yes,Yes
+1668,29,Private Sector/Self Employed,Yes,350000,9,0,No,No
+1276,31,Government Sector,Yes,1200000,5,1,No,No
+1171,31,Government Sector,Yes,400000,4,0,No,No
+244,27,Government Sector,Yes,500000,4,0,No,No
+616,27,Government Sector,Yes,750000,7,1,No,Yes
+40,25,Private Sector/Self Employed,Yes,1400000,3,1,Yes,Yes
+596,31,Private Sector/Self Employed,Yes,1350000,5,0,No,Yes
+1290,31,Private Sector/Self Employed,Yes,1400000,5,0,Yes,Yes
+1933,28,Private Sector/Self Employed,Yes,550000,4,1,Yes,No
+1789,28,Private Sector/Self Employed,Yes,1150000,3,1,No,No
+594,33,Private Sector/Self Employed,Yes,550000,5,0,Yes,No
+1646,28,Private Sector/Self Employed,Yes,1250000,3,1,No,No
+1601,28,Private Sector/Self Employed,Yes,1250000,4,1,No,No
+1137,35,Private Sector/Self Employed,No,800000,5,0,No,No
+86,32,Government Sector,Yes,900000,4,0,No,No
+253,28,Private Sector/Self Employed,Yes,1400000,2,0,No,Yes
+1069,28,Private Sector/Self Employed,Yes,800000,4,1,No,No
+785,29,Private Sector/Self Employed,Yes,1200000,7,0,No,Yes
+1412,26,Private Sector/Self Employed,Yes,500000,4,1,No,No
+17,28,Private Sector/Self Employed,Yes,800000,7,0,No,No
+981,27,Government Sector,Yes,750000,3,0,No,No
+934,28,Private Sector/Self Employed,Yes,800000,5,0,Yes,No
+1722,34,Private Sector/Self Employed,Yes,1500000,3,1,Yes,Yes
+1539,33,Private Sector/Self Employed,Yes,550000,7,1,Yes,No
+1942,28,Private Sector/Self Employed,Yes,900000,5,0,No,No
+898,31,Government Sector,Yes,1300000,5,0,No,No
+1326,34,Private Sector/Self Employed,Yes,700000,5,0,No,No
+216,34,Private Sector/Self Employed,Yes,1050000,8,0,No,No
+1642,31,Private Sector/Self Employed,Yes,1250000,7,0,No,No
+1167,34,Private Sector/Self Employed,Yes,1050000,4,0,No,No
+420,34,Private Sector/Self Employed,Yes,1050000,5,0,No,No
+473,25,Private Sector/Self Employed,Yes,1400000,8,0,No,Yes
+1280,25,Private Sector/Self Employed,Yes,1400000,4,0,No,Yes
+1977,25,Private Sector/Self Employed,No,1350000,6,0,No,Yes
+1198,33,Government Sector,Yes,400000,4,0,No,No
+219,31,Private Sector/Self Employed,Yes,1250000,9,1,No,No
+1667,28,Private Sector/Self Employed,Yes,750000,5,0,No,No
+943,29,Private Sector/Self Employed,Yes,1200000,5,1,No,No
+1502,28,Private Sector/Self Employed,Yes,750000,6,1,No,No
+890,33,Private Sector/Self Employed,Yes,1400000,3,0,No,Yes
+623,28,Private Sector/Self Employed,Yes,1100000,3,0,No,No
+1249,28,Government Sector,Yes,600000,4,0,No,No
+1634,34,Private Sector/Self Employed,Yes,1000000,5,0,No,No
+1418,30,Private Sector/Self Employed,No,800000,4,0,No,No
+425,29,Private Sector/Self Employed,Yes,350000,5,1,No,No
+1967,34,Private Sector/Self Employed,Yes,700000,3,1,No,No
+359,25,Private Sector/Self Employed,No,1150000,3,0,No,No
+1396,32,Government Sector,Yes,350000,5,1,No,No
+1529,31,Private Sector/Self Employed,Yes,1250000,4,0,No,No
+104,28,Private Sector/Self Employed,Yes,1150000,3,0,No,No
+1319,26,Private Sector/Self Employed,Yes,600000,6,0,Yes,No
+1865,26,Private Sector/Self Employed,Yes,1400000,6,0,No,Yes
+846,28,Private Sector/Self Employed,Yes,700000,4,0,No,No
+202,28,Private Sector/Self Employed,Yes,600000,7,0,No,No
+756,28,Government Sector,No,300000,6,0,No,No
+1163,29,Private Sector/Self Employed,Yes,900000,3,0,No,No
+123,27,Government Sector,Yes,850000,3,0,No,No
+1973,31,Private Sector/Self Employed,Yes,1350000,3,0,No,Yes
+280,32,Government Sector,Yes,800000,6,0,Yes,No
+895,28,Private Sector/Self Employed,Yes,600000,5,0,No,Yes
+1402,26,Private Sector/Self Employed,Yes,600000,4,1,No,No
+651,33,Private Sector/Self Employed,Yes,1400000,8,1,No,Yes
+1440,34,Private Sector/Self Employed,Yes,850000,5,0,No,No
+959,31,Private Sector/Self Employed,Yes,500000,6,0,No,No
+1191,25,Private Sector/Self Employed,No,1150000,5,1,No,No
+1005,27,Private Sector/Self Employed,No,350000,4,0,No,No
+1962,25,Private Sector/Self Employed,No,1150000,7,0,No,No
+733,27,Government Sector,Yes,900000,4,0,Yes,No
+999,34,Private Sector/Self Employed,Yes,1300000,6,0,No,No
+1119,28,Government Sector,Yes,300000,6,1,No,No
+1733,31,Government Sector,No,300000,5,0,No,No
+1552,28,Private Sector/Self Employed,Yes,750000,2,0,No,No
+857,28,Government Sector,Yes,600000,3,0,No,No
+1389,25,Private Sector/Self Employed,No,1150000,6,0,No,No
+475,34,Private Sector/Self Employed,Yes,1000000,4,0,No,No
+1405,28,Government Sector,Yes,600000,8,0,No,No
+622,32,Government Sector,Yes,800000,5,0,Yes,No
+44,25,Private Sector/Self Employed,Yes,1400000,7,0,No,Yes
+523,33,Government Sector,Yes,400000,5,1,No,No
+909,26,Private Sector/Self Employed,Yes,1400000,4,1,No,Yes
+589,26,Private Sector/Self Employed,Yes,1400000,3,0,No,Yes
+428,28,Private Sector/Self Employed,Yes,700000,5,1,No,No
+1905,25,Private Sector/Self Employed,No,600000,4,1,Yes,No
+804,27,Private Sector/Self Employed,No,350000,4,1,No,No
+229,34,Private Sector/Self Employed,Yes,1000000,2,0,No,No
+1776,29,Private Sector/Self Employed,Yes,1200000,4,0,No,No
+1101,34,Private Sector/Self Employed,Yes,500000,4,0,No,No
+891,29,Private Sector/Self Employed,Yes,1050000,5,1,No,No
+667,26,Private Sector/Self Employed,Yes,1300000,4,1,No,Yes
+1241,33,Government Sector,Yes,1100000,8,0,No,No
+73,28,Private Sector/Self Employed,Yes,750000,7,0,Yes,No
+398,28,Private Sector/Self Employed,Yes,1250000,5,0,Yes,No
+1859,32,Government Sector,Yes,800000,3,1,No,No
+1602,28,Private Sector/Self Employed,Yes,700000,5,0,No,No
+824,32,Government Sector,Yes,850000,4,0,No,No
+367,31,Government Sector,Yes,1300000,4,0,No,No
+4,28,Private Sector/Self Employed,Yes,700000,8,1,Yes,No
+1394,30,Private Sector/Self Employed,No,650000,3,1,No,No
+1882,31,Private Sector/Self Employed,Yes,1350000,9,1,No,Yes
+1981,27,Government Sector,Yes,850000,3,0,No,No
+1094,34,Private Sector/Self Employed,Yes,700000,5,1,No,No
+557,27,Government Sector,Yes,1050000,3,0,No,No
+1381,25,Private Sector/Self Employed,Yes,1400000,4,1,No,Yes
+1825,29,Private Sector/Self Employed,Yes,600000,6,0,No,No
+1594,25,Private Sector/Self Employed,Yes,1400000,5,1,No,Yes
+1048,25,Private Sector/Self Employed,Yes,500000,5,1,No,No
+1953,34,Government Sector,Yes,1300000,7,0,No,No
+151,29,Private Sector/Self Employed,Yes,1200000,7,0,No,No
+574,29,Private Sector/Self Employed,Yes,1150000,5,0,Yes,No
+154,28,Private Sector/Self Employed,Yes,700000,4,0,Yes,No
+1818,26,Government Sector,Yes,500000,8,0,No,No
+742,34,Private Sector/Self Employed,Yes,1050000,7,1,No,No
+1142,27,Government Sector,Yes,750000,6,0,No,No
+1619,25,Government Sector,Yes,750000,6,0,No,No
+677,27,Private Sector/Self Employed,No,450000,7,0,No,No
+427,25,Private Sector/Self Employed,Yes,1400000,7,0,Yes,Yes
+1300,31,Government Sector,Yes,1200000,6,0,No,No
+832,34,Private Sector/Self Employed,Yes,1500000,6,0,Yes,Yes
+356,34,Private Sector/Self Employed,Yes,1000000,4,0,No,No
+1550,28,Private Sector/Self Employed,Yes,1200000,7,0,No,No
+217,28,Private Sector/Self Employed,Yes,800000,6,0,No,No
+696,32,Government Sector,Yes,350000,2,0,No,No
+222,28,Private Sector/Self Employed,Yes,1200000,3,0,No,No
+657,28,Private Sector/Self Employed,Yes,1200000,5,0,No,No
+128,31,Private Sector/Self Employed,Yes,1350000,8,0,No,Yes
+737,28,Private Sector/Self Employed,Yes,700000,4,1,No,No
+397,25,Government Sector,Yes,750000,5,0,No,No
+1586,28,Private Sector/Self Employed,Yes,1450000,4,0,Yes,Yes
+1563,31,Private Sector/Self Employed,Yes,1250000,7,0,No,No
+1812,28,Private Sector/Self Employed,Yes,800000,6,0,No,Yes
+162,34,Private Sector/Self Employed,Yes,500000,7,0,No,No
+1025,31,Government Sector,Yes,1300000,4,1,No,No
+1188,26,Private Sector/Self Employed,Yes,500000,5,0,No,No
+1372,33,Private Sector/Self Employed,Yes,550000,5,1,No,No
+441,34,Private Sector/Self Employed,Yes,850000,5,0,No,No
+1296,29,Private Sector/Self Employed,Yes,1050000,3,0,No,No
+1110,29,Private Sector/Self Employed,Yes,1100000,4,0,No,Yes
+1340,28,Private Sector/Self Employed,Yes,700000,4,1,No,No
+778,27,Government Sector,Yes,850000,6,0,No,No
+969,31,Private Sector/Self Employed,Yes,900000,3,0,No,No
+1572,25,Private Sector/Self Employed,No,1150000,5,0,Yes,No
+382,31,Private Sector/Self Employed,Yes,1400000,6,0,No,Yes
+1527,31,Private Sector/Self Employed,Yes,1250000,5,0,No,No
+454,28,Government Sector,Yes,300000,4,0,No,No
+1246,26,Private Sector/Self Employed,Yes,1250000,4,0,No,No
+56,28,Private Sector/Self Employed,Yes,550000,3,0,No,No
+802,30,Private Sector/Self Employed,No,550000,5,1,No,No
+1345,28,Private Sector/Self Employed,Yes,700000,2,1,No,No
+1683,28,Private Sector/Self Employed,Yes,800000,4,0,Yes,No
+247,27,Government Sector,Yes,1050000,3,0,Yes,No
+42,26,Private Sector/Self Employed,Yes,1500000,2,1,Yes,Yes
+1731,31,Private Sector/Self Employed,Yes,500000,5,0,No,No
+731,28,Private Sector/Self Employed,Yes,800000,5,0,No,No
+958,27,Private Sector/Self Employed,No,350000,5,1,No,No
+1769,29,Private Sector/Self Employed,Yes,1050000,5,0,No,No
+1088,28,Private Sector/Self Employed,Yes,1250000,9,1,No,No
+334,29,Private Sector/Self Employed,Yes,1050000,3,0,No,No
+271,35,Government Sector,Yes,900000,3,1,No,No
+922,29,Private Sector/Self Employed,Yes,900000,4,0,No,No
+1517,26,Private Sector/Self Employed,Yes,1400000,4,1,No,Yes
+1442,26,Private Sector/Self Employed,Yes,500000,2,0,No,No
+1588,31,Private Sector/Self Employed,Yes,900000,5,1,Yes,No
+1089,26,Private Sector/Self Employed,Yes,500000,3,0,No,No
+1207,26,Private Sector/Self Employed,Yes,450000,6,0,No,No
+897,31,Government Sector,Yes,1300000,5,1,No,No
+1205,33,Government Sector,Yes,700000,3,0,No,No
+352,31,Private Sector/Self Employed,Yes,1350000,6,0,No,Yes
+1311,28,Private Sector/Self Employed,Yes,800000,3,0,No,No
+1050,33,Government Sector,Yes,1100000,2,1,No,Yes
+1911,27,Private Sector/Self Employed,No,1550000,6,1,Yes,No
+1169,25,Private Sector/Self Employed,Yes,1400000,7,0,No,Yes
+1275,29,Private Sector/Self Employed,Yes,600000,6,0,No,No
+1130,28,Private Sector/Self Employed,Yes,550000,5,0,Yes,No
+344,32,Government Sector,Yes,800000,4,0,Yes,Yes
+161,34,Private Sector/Self Employed,No,1400000,3,1,No,Yes
+530,29,Private Sector/Self Employed,Yes,900000,3,0,No,No
+1458,28,Private Sector/Self Employed,Yes,800000,4,0,No,No
+1566,34,Private Sector/Self Employed,Yes,1500000,3,1,Yes,Yes
+763,28,Government Sector,Yes,600000,4,1,No,No
+942,25,Private Sector/Self Employed,Yes,500000,6,0,No,No
+195,25,Private Sector/Self Employed,Yes,1400000,5,0,Yes,Yes
+1330,33,Government Sector,Yes,1100000,4,0,No,No
+291,34,Private Sector/Self Employed,Yes,1300000,3,0,Yes,No
+707,28,Private Sector/Self Employed,Yes,550000,4,1,No,No
+406,28,Private Sector/Self Employed,Yes,1200000,9,0,No,No
+725,30,Private Sector/Self Employed,No,800000,4,0,No,No
+1118,33,Government Sector,Yes,1100000,2,0,Yes,No
+1773,28,Private Sector/Self Employed,Yes,500000,4,0,No,No
+166,28,Private Sector/Self Employed,Yes,800000,7,0,No,No
+1504,34,Private Sector/Self Employed,Yes,850000,2,0,No,No
+646,28,Private Sector/Self Employed,Yes,1100000,6,0,No,No
+1046,33,Government Sector,Yes,400000,5,1,No,No
+78,31,Government Sector,Yes,1300000,3,0,No,Yes
+507,32,Government Sector,Yes,800000,2,1,No,No
+16,28,Private Sector/Self Employed,Yes,1150000,4,1,No,No
+1554,31,Private Sector/Self Employed,Yes,900000,5,0,Yes,No
+1656,26,Private Sector/Self Employed,Yes,600000,3,0,No,No
+965,25,Private Sector/Self Employed,No,1150000,8,0,Yes,No
+883,28,Private Sector/Self Employed,Yes,1350000,3,0,No,Yes
+1644,28,Private Sector/Self Employed,Yes,1100000,7,0,No,No
+338,28,Private Sector/Self Employed,Yes,600000,3,0,No,No
+265,27,Government Sector,Yes,850000,6,0,Yes,No
+1337,28,Private Sector/Self Employed,Yes,1250000,4,0,No,No
+1872,29,Private Sector/Self Employed,Yes,1050000,7,0,No,No
+1726,34,Private Sector/Self Employed,Yes,1500000,6,0,Yes,Yes
+870,35,Private Sector/Self Employed,No,800000,2,0,No,Yes
+311,34,Private Sector/Self Employed,Yes,1500000,7,0,Yes,Yes
+310,30,Private Sector/Self Employed,No,550000,8,0,No,No
+1948,35,Private Sector/Self Employed,No,800000,6,0,Yes,No
+1955,33,Government Sector,Yes,1750000,4,0,No,No
+821,34,Private Sector/Self Employed,Yes,1000000,4,1,No,No
+429,32,Government Sector,Yes,350000,2,0,No,No
+835,35,Private Sector/Self Employed,No,600000,9,0,No,No
+621,28,Private Sector/Self Employed,Yes,650000,4,0,No,No
+1238,34,Private Sector/Self Employed,Yes,700000,6,0,No,No
+758,33,Private Sector/Self Employed,Yes,1400000,6,1,No,Yes
+745,28,Government Sector,Yes,600000,3,0,Yes,No
+477,34,Private Sector/Self Employed,Yes,1500000,6,1,Yes,Yes
+1449,29,Private Sector/Self Employed,Yes,1100000,4,1,No,No
+1056,31,Government Sector,Yes,1300000,4,0,No,No
+1698,29,Private Sector/Self Employed,Yes,500000,4,0,No,No
+1821,25,Private Sector/Self Employed,No,1350000,5,1,No,Yes
+1876,34,Private Sector/Self Employed,Yes,1500000,4,1,Yes,Yes
+1125,28,Government Sector,Yes,300000,5,0,No,No
+155,34,Private Sector/Self Employed,Yes,1300000,6,0,No,No
+1616,27,Government Sector,Yes,500000,2,0,No,No
+1398,31,Private Sector/Self Employed,Yes,1400000,3,0,Yes,Yes
+1374,28,Government Sector,Yes,300000,6,1,No,No
+1889,31,Government Sector,Yes,1300000,6,0,No,No
+1505,27,Government Sector,Yes,500000,4,0,No,No
+1378,34,Government Sector,Yes,1300000,2,1,No,No
+998,26,Private Sector/Self Employed,Yes,1400000,4,0,No,Yes
+1567,33,Private Sector/Self Employed,Yes,1500000,5,0,Yes,Yes
+972,28,Private Sector/Self Employed,Yes,1200000,3,0,No,No
+735,28,Government Sector,Yes,300000,4,0,No,No
+1673,28,Private Sector/Self Employed,Yes,700000,3,0,No,No
+1608,26,Private Sector/Self Employed,Yes,1500000,6,0,Yes,Yes
+1237,31,Private Sector/Self Employed,Yes,900000,7,0,No,Yes
+1310,28,Private Sector/Self Employed,Yes,1150000,6,0,No,No
+400,29,Private Sector/Self Employed,Yes,1200000,4,0,Yes,No
+368,35,Private Sector/Self Employed,No,800000,3,0,No,No
+691,31,Private Sector/Self Employed,Yes,950000,3,0,Yes,No
+1176,34,Private Sector/Self Employed,No,1300000,5,0,No,No
+826,28,Private Sector/Self Employed,Yes,1150000,3,0,Yes,No
+687,28,Private Sector/Self Employed,Yes,1150000,3,0,No,No
+254,28,Government Sector,Yes,1200000,5,0,No,No
+1647,34,Private Sector/Self Employed,Yes,850000,5,1,Yes,No
+50,31,Private Sector/Self Employed,Yes,1250000,3,1,No,No
+789,28,Private Sector/Self Employed,Yes,750000,4,0,No,No
+556,33,Private Sector/Self Employed,Yes,550000,4,1,No,No
+1035,34,Private Sector/Self Employed,Yes,1300000,3,0,No,No
+1437,30,Private Sector/Self Employed,No,500000,7,0,No,No
+1423,33,Private Sector/Self Employed,Yes,550000,8,0,No,No
+1356,30,Private Sector/Self Employed,No,550000,3,0,Yes,Yes
+749,34,Government Sector,Yes,1300000,8,0,No,No
+1292,33,Government Sector,Yes,650000,9,1,No,No
+302,34,Private Sector/Self Employed,Yes,700000,6,0,No,No
+567,35,Private Sector/Self Employed,No,800000,7,1,No,Yes
+1100,27,Private Sector/Self Employed,No,450000,3,0,No,No
+1688,31,Private Sector/Self Employed,Yes,1250000,8,0,No,No
+584,29,Private Sector/Self Employed,Yes,900000,5,0,No,No
+335,28,Private Sector/Self Employed,Yes,800000,2,0,No,No
+820,25,Private Sector/Self Employed,No,1150000,4,0,No,No
+739,33,Private Sector/Self Employed,Yes,550000,4,0,No,No
+1197,25,Private Sector/Self Employed,Yes,1700000,5,1,Yes,No
+1758,26,Government Sector,Yes,500000,6,0,No,No
+1840,28,Private Sector/Self Employed,Yes,900000,8,0,No,No
+1419,27,Government Sector,Yes,1050000,5,0,No,No
+98,29,Private Sector/Self Employed,Yes,1100000,6,0,No,No
+3,28,Private Sector/Self Employed,Yes,700000,3,1,No,No
+1901,28,Government Sector,Yes,600000,4,1,No,No
+511,31,Private Sector/Self Employed,Yes,1250000,3,0,No,Yes
+1331,31,Private Sector/Self Employed,Yes,1250000,5,0,No,No
+1460,28,Private Sector/Self Employed,Yes,550000,4,0,No,No
+859,28,Private Sector/Self Employed,Yes,800000,4,0,No,No
+994,28,Private Sector/Self Employed,Yes,550000,6,1,No,No
+1433,31,Private Sector/Self Employed,Yes,1400000,4,0,No,Yes
+1339,34,Private Sector/Self Employed,Yes,1500000,5,0,Yes,Yes
+1909,28,Government Sector,No,300000,4,1,No,No
+1225,31,Government Sector,No,350000,3,1,No,No
+519,25,Private Sector/Self Employed,No,1700000,3,0,Yes,No
+315,28,Government Sector,Yes,300000,4,0,No,No
+1224,33,Private Sector/Self Employed,Yes,1400000,7,0,No,Yes
+932,27,Government Sector,Yes,1050000,5,1,No,No
+929,26,Private Sector/Self Employed,Yes,600000,5,0,No,No
+1172,28,Private Sector/Self Employed,Yes,900000,4,1,No,No
+456,26,Private Sector/Self Employed,Yes,1500000,5,1,Yes,Yes
+819,28,Private Sector/Self Employed,Yes,1150000,4,1,No,No
+671,29,Private Sector/Self Employed,Yes,1100000,3,1,No,No
+982,27,Government Sector,Yes,850000,5,0,No,No
+1699,28,Private Sector/Self Employed,Yes,700000,3,0,No,No
+45,34,Private Sector/Self Employed,No,1400000,5,1,No,Yes
+1636,28,Private Sector/Self Employed,Yes,1400000,4,0,Yes,Yes
+1222,29,Private Sector/Self Employed,Yes,1350000,3,1,Yes,Yes
+840,28,Private Sector/Self Employed,Yes,1100000,3,0,No,No
+1373,28,Private Sector/Self Employed,Yes,650000,4,0,Yes,No
+346,25,Private Sector/Self Employed,Yes,1800000,7,1,Yes,No
+1138,28,Private Sector/Self Employed,Yes,900000,6,1,Yes,No
+49,31,Private Sector/Self Employed,Yes,1350000,3,0,No,Yes
+1525,30,Private Sector/Self Employed,No,800000,4,0,No,No
+1445,28,Private Sector/Self Employed,Yes,1100000,4,1,No,No
+496,26,Private Sector/Self Employed,Yes,600000,7,0,No,No
+673,30,Private Sector/Self Employed,No,750000,3,1,No,No
+81,25,Private Sector/Self Employed,No,1150000,8,0,No,No
+1380,28,Private Sector/Self Employed,Yes,500000,5,1,No,No
+1123,25,Private Sector/Self Employed,Yes,1800000,6,1,Yes,No
+500,26,Private Sector/Self Employed,Yes,1500000,4,0,Yes,Yes
+1126,29,Private Sector/Self Employed,Yes,1200000,4,0,No,No
+706,34,Private Sector/Self Employed,Yes,700000,4,0,No,No
+1878,28,Private Sector/Self Employed,Yes,700000,4,0,No,No
+855,26,Private Sector/Self Employed,Yes,500000,6,0,No,No
+1743,35,Private Sector/Self Employed,No,950000,4,0,No,No
+1209,34,Private Sector/Self Employed,Yes,1500000,5,1,Yes,Yes
+182,35,Private Sector/Self Employed,No,800000,3,0,Yes,No
+1485,34,Private Sector/Self Employed,Yes,500000,4,0,No,No
+1774,32,Government Sector,Yes,350000,5,0,No,No
+1612,31,Private Sector/Self Employed,Yes,1400000,6,0,No,Yes
+187,28,Private Sector/Self Employed,Yes,650000,9,0,No,No
+1242,28,Private Sector/Self Employed,Yes,700000,3,1,No,Yes
+431,28,Private Sector/Self Employed,Yes,500000,6,0,No,No
+874,28,Private Sector/Self Employed,Yes,550000,4,0,No,No
+1669,26,Private Sector/Self Employed,Yes,500000,5,1,No,No
+553,33,Private Sector/Self Employed,Yes,1400000,5,0,Yes,Yes
+1304,34,Private Sector/Self Employed,Yes,1050000,5,0,No,No
+1065,28,Government Sector,No,300000,7,1,No,No
+1487,32,Government Sector,Yes,350000,3,0,No,No
+1185,33,Government Sector,Yes,400000,4,0,No,No
+524,32,Government Sector,Yes,800000,4,0,No,No
+914,32,Government Sector,Yes,800000,6,1,No,No
+869,33,Private Sector/Self Employed,Yes,1400000,3,0,No,Yes
+792,28,Private Sector/Self Employed,Yes,750000,6,0,Yes,No
+160,31,Government Sector,Yes,1200000,5,1,No,No
+63,27,Government Sector,Yes,500000,2,0,No,No
+1831,31,Government Sector,No,350000,4,1,No,No
+769,30,Private Sector/Self Employed,No,800000,3,0,No,No
+1301,28,Private Sector/Self Employed,No,550000,3,0,No,No
+288,29,Private Sector/Self Employed,Yes,1100000,4,0,No,No
+761,26,Private Sector/Self Employed,Yes,1500000,3,0,Yes,Yes
+1075,32,Government Sector,Yes,650000,5,0,Yes,No
+355,28,Private Sector/Self Employed,Yes,1400000,3,0,No,Yes
+814,29,Private Sector/Self Employed,Yes,1050000,6,1,No,Yes
+1915,28,Private Sector/Self Employed,Yes,800000,5,0,No,No
+232,28,Private Sector/Self Employed,Yes,1250000,6,0,No,No
+1830,25,Private Sector/Self Employed,Yes,1700000,6,0,Yes,No
+84,32,Government Sector,Yes,350000,6,1,No,No
+205,29,Private Sector/Self Employed,Yes,1150000,4,1,No,Yes
+800,31,Government Sector,Yes,1200000,6,0,No,No
+130,28,Private Sector/Self Employed,Yes,800000,4,0,No,No
+1764,32,Government Sector,Yes,900000,5,0,Yes,No
+1431,25,Private Sector/Self Employed,No,1150000,6,0,No,No
+1748,28,Private Sector/Self Employed,Yes,1100000,4,0,Yes,No
+1965,30,Private Sector/Self Employed,No,550000,3,0,No,No
+1210,30,Private Sector/Self Employed,No,800000,5,0,No,No
+243,26,Private Sector/Self Employed,Yes,750000,6,0,No,No
+1391,31,Private Sector/Self Employed,Yes,1400000,4,1,No,Yes
+1935,33,Government Sector,Yes,1000000,6,0,Yes,No
+236,26,Private Sector/Self Employed,Yes,1500000,5,0,Yes,Yes
+506,28,Private Sector/Self Employed,Yes,600000,6,0,No,No
+1054,31,Government Sector,Yes,400000,5,0,No,No
+1985,34,Private Sector/Self Employed,Yes,1000000,6,0,Yes,Yes
+983,35,Private Sector/Self Employed,No,950000,6,0,Yes,No
+1547,34,Private Sector/Self Employed,Yes,1500000,4,1,Yes,Yes
+740,34,Private Sector/Self Employed,Yes,1000000,6,1,No,No
+759,34,Private Sector/Self Employed,Yes,700000,7,1,No,No
+1835,31,Government Sector,No,400000,5,0,No,No
+1823,25,Private Sector/Self Employed,Yes,1800000,6,0,Yes,No
+487,34,Private Sector/Self Employed,Yes,850000,4,0,No,No
+522,35,Private Sector/Self Employed,No,800000,6,1,No,No
+634,34,Private Sector/Self Employed,No,1300000,4,0,No,No
+1029,31,Government Sector,No,300000,3,0,No,No
+1684,26,Private Sector/Self Employed,Yes,1400000,6,1,No,Yes
+1921,31,Government Sector,No,300000,5,0,No,No
+1676,27,Government Sector,Yes,1050000,7,0,No,No
+741,34,Private Sector/Self Employed,Yes,1300000,6,0,No,No
+275,26,Private Sector/Self Employed,Yes,1400000,4,1,No,Yes
+1847,28,Government Sector,Yes,1200000,3,0,No,No
+1234,34,Government Sector,Yes,1300000,4,0,No,No
+610,31,Private Sector/Self Employed,Yes,900000,8,0,No,Yes
+1020,25,Private Sector/Self Employed,No,1150000,4,0,No,No
+1196,28,Government Sector,Yes,300000,2,0,No,No
+426,25,Private Sector/Self Employed,Yes,500000,5,0,No,No
+1813,29,Private Sector/Self Employed,Yes,1350000,4,0,No,Yes
+1074,34,Private Sector/Self Employed,Yes,1500000,5,1,Yes,Yes
+660,28,Government Sector,Yes,300000,4,0,No,No
+541,29,Private Sector/Self Employed,Yes,1200000,5,0,No,No
+1787,34,Private Sector/Self Employed,Yes,500000,5,0,No,No
+386,28,Private Sector/Self Employed,Yes,1350000,5,0,No,Yes
+43,28,Private Sector/Self Employed,Yes,1200000,4,0,Yes,No
+1805,29,Private Sector/Self Employed,Yes,1200000,4,0,No,No
+333,31,Private Sector/Self Employed,Yes,1400000,6,1,No,Yes
+978,32,Government Sector,Yes,900000,4,0,Yes,No
+1506,28,Private Sector/Self Employed,Yes,1150000,6,1,No,No
+1533,33,Government Sector,Yes,600000,8,0,No,No
+1397,28,Private Sector/Self Employed,Yes,900000,9,1,No,Yes
+413,25,Private Sector/Self Employed,Yes,1700000,5,0,Yes,No
+1421,31,Private Sector/Self Employed,Yes,1350000,3,1,Yes,Yes
+1342,25,Private Sector/Self Employed,Yes,1400000,3,0,No,Yes
+872,27,Private Sector/Self Employed,No,1000000,3,0,No,No
+690,33,Private Sector/Self Employed,Yes,1400000,8,0,No,Yes
+1670,34,Private Sector/Self Employed,Yes,1050000,8,1,No,No
+1555,26,Private Sector/Self Employed,Yes,1400000,9,1,No,Yes
+283,26,Private Sector/Self Employed,Yes,600000,4,0,Yes,No
+1511,26,Private Sector/Self Employed,Yes,1300000,5,0,No,No
+1510,26,Private Sector/Self Employed,Yes,500000,3,0,No,No
+953,29,Private Sector/Self Employed,Yes,1750000,6,0,No,No
+1221,28,Government Sector,Yes,300000,2,0,No,No
+1734,34,Private Sector/Self Employed,Yes,1050000,4,1,No,No
+1007,34,Private Sector/Self Employed,Yes,1000000,6,0,No,No
+375,28,Private Sector/Self Employed,Yes,1100000,6,1,No,No
+1145,28,Private Sector/Self Employed,Yes,500000,5,0,No,No
+1194,31,Private Sector/Self Employed,Yes,1350000,3,0,No,Yes
+192,28,Private Sector/Self Employed,Yes,800000,4,1,No,Yes
+672,27,Government Sector,Yes,1050000,2,1,No,No
+1216,27,Private Sector/Self Employed,No,800000,6,0,No,No
+534,27,Private Sector/Self Employed,No,450000,4,0,No,No
+880,28,Private Sector/Self Employed,Yes,750000,6,0,Yes,No
+411,28,Government Sector,Yes,600000,6,0,No,No
+1478,28,Government Sector,Yes,1100000,4,1,No,No
+1522,31,Government Sector,No,400000,3,0,No,No
+1976,32,Government Sector,Yes,900000,6,0,No,No
+543,34,Private Sector/Self Employed,Yes,850000,3,1,No,No
+1715,28,Private Sector/Self Employed,Yes,800000,6,1,No,No
+1482,33,Government Sector,Yes,700000,4,0,No,Yes
+0,31,Government Sector,Yes,400000,6,1,No,No
+1639,25,Private Sector/Self Employed,Yes,1700000,4,0,Yes,No
+633,28,Private Sector/Self Employed,Yes,700000,7,1,No,No
+197,29,Private Sector/Self Employed,Yes,1150000,5,1,Yes,No
+1321,31,Government Sector,No,300000,7,0,No,No
+1336,28,Private Sector/Self Employed,Yes,900000,3,0,No,No
+1895,26,Government Sector,Yes,500000,3,0,No,No
+1149,25,Private Sector/Self Employed,Yes,1400000,5,0,Yes,Yes
+48,28,Private Sector/Self Employed,Yes,600000,3,0,No,No
+1736,33,Private Sector/Self Employed,Yes,750000,8,1,No,No
+313,25,Private Sector/Self Employed,No,1150000,4,0,No,No
+520,35,Government Sector,Yes,1100000,4,1,No,No
+1508,25,Private Sector/Self Employed,No,1700000,5,0,Yes,Yes
+1585,25,Private Sector/Self Employed,Yes,1700000,2,1,Yes,No
+65,26,Private Sector/Self Employed,Yes,600000,5,1,No,No
+1348,33,Government Sector,Yes,800000,4,0,No,No
+913,31,Private Sector/Self Employed,Yes,1400000,4,0,No,Yes
+771,29,Private Sector/Self Employed,Yes,500000,7,0,No,No
+1980,25,Private Sector/Self Employed,No,1150000,5,1,No,No
+1920,32,Government Sector,Yes,800000,5,0,No,No
+1453,30,Private Sector/Self Employed,No,550000,3,1,No,No
+587,29,Private Sector/Self Employed,Yes,900000,9,1,No,No
+1053,34,Private Sector/Self Employed,Yes,1050000,4,0,No,No
+279,32,Government Sector,Yes,350000,6,0,No,No
+640,27,Private Sector/Self Employed,No,800000,5,0,No,No
+917,28,Government Sector,Yes,300000,6,0,No,No
+723,29,Private Sector/Self Employed,Yes,1050000,2,1,Yes,No
+1358,26,Private Sector/Self Employed,Yes,1500000,4,0,Yes,Yes
+256,34,Government Sector,Yes,1300000,7,1,No,Yes
+470,28,Private Sector/Self Employed,Yes,1300000,2,1,No,No
+1211,25,Private Sector/Self Employed,Yes,1700000,4,0,Yes,No
+1165,28,Private Sector/Self Employed,Yes,1150000,2,0,No,No
+551,25,Private Sector/Self Employed,Yes,1400000,9,1,No,Yes
+750,35,Private Sector/Self Employed,No,800000,4,0,No,No
+435,34,Private Sector/Self Employed,Yes,1500000,4,1,Yes,Yes
+478,29,Private Sector/Self Employed,Yes,900000,4,0,No,No
+269,27,Private Sector/Self Employed,No,800000,5,0,No,No
+1542,28,Private Sector/Self Employed,Yes,800000,3,0,No,No
+603,33,Private Sector/Self Employed,Yes,1400000,6,1,No,Yes
+451,28,Private Sector/Self Employed,Yes,800000,4,0,No,No
+1010,27,Government Sector,Yes,500000,8,0,No,No
+1867,35,Private Sector/Self Employed,No,800000,5,0,No,No
+1979,28,Private Sector/Self Employed,Yes,1100000,4,1,No,No
+843,29,Private Sector/Self Employed,Yes,600000,3,0,No,No
+89,28,Government Sector,Yes,300000,8,0,No,No
+1181,28,Private Sector/Self Employed,Yes,600000,3,0,No,No
+306,33,Government Sector,Yes,650000,5,1,No,No
+908,34,Private Sector/Self Employed,Yes,1300000,3,0,No,Yes
+19,34,Private Sector/Self Employed,Yes,1500000,2,0,Yes,Yes
+1256,28,Private Sector/Self Employed,Yes,500000,5,1,No,No
+793,28,Private Sector/Self Employed,Yes,1150000,6,0,No,No
+1984,28,Private Sector/Self Employed,Yes,1150000,6,1,No,No
+1890,28,Government Sector,Yes,1200000,5,0,No,No
+779,25,Private Sector/Self Employed,Yes,1400000,4,0,No,Yes
+1622,34,Private Sector/Self Employed,Yes,1000000,9,0,No,No
+481,29,Private Sector/Self Employed,Yes,1100000,4,0,No,No
+529,28,Private Sector/Self Employed,Yes,1250000,4,0,Yes,No
+1779,25,Private Sector/Self Employed,No,1700000,6,0,Yes,No
+712,28,Private Sector/Self Employed,Yes,1450000,9,0,Yes,Yes
+1018,31,Government Sector,Yes,400000,7,0,No,No
+822,29,Private Sector/Self Employed,Yes,1200000,4,0,No,No
+1767,35,Private Sector/Self Employed,No,800000,4,0,No,No
+815,25,Private Sector/Self Employed,No,1700000,5,1,Yes,No
+1387,30,Private Sector/Self Employed,No,650000,6,1,No,No
+1150,28,Private Sector/Self Employed,Yes,600000,3,0,No,No
+1217,31,Government Sector,Yes,400000,7,0,No,No
+755,29,Private Sector/Self Employed,Yes,1200000,4,0,No,No
+85,25,Private Sector/Self Employed,No,1700000,4,0,Yes,No
+1735,34,Private Sector/Self Employed,Yes,500000,6,0,No,No
+1628,29,Private Sector/Self Employed,Yes,1150000,4,1,No,No
+488,28,Government Sector,Yes,300000,3,0,No,No
+1975,26,Private Sector/Self Employed,Yes,1400000,9,0,No,Yes
+1383,25,Private Sector/Self Employed,Yes,1400000,2,1,No,Yes
+600,34,Private Sector/Self Employed,Yes,1500000,4,1,Yes,Yes
+569,27,Government Sector,Yes,500000,4,1,No,No
+1357,30,Private Sector/Self Employed,No,550000,7,0,No,No
+770,28,Government Sector,Yes,600000,5,0,No,No
+1367,27,Government Sector,Yes,850000,5,0,No,No
+1104,34,Private Sector/Self Employed,Yes,1000000,5,0,No,No
+1766,26,Government Sector,Yes,550000,4,0,No,No
+1328,28,Private Sector/Self Employed,Yes,900000,2,0,Yes,No
+157,28,Private Sector/Self Employed,Yes,600000,3,1,No,No
+1261,33,Government Sector,Yes,800000,6,1,No,No
+212,28,Private Sector/Self Employed,Yes,750000,5,1,No,No
+472,28,Government Sector,Yes,300000,5,0,No,No
+680,29,Private Sector/Self Employed,Yes,1100000,4,1,No,Yes
+573,27,Private Sector/Self Employed,No,350000,3,0,No,No
+6,31,Government Sector,Yes,1300000,4,0,No,No
+437,27,Private Sector/Self Employed,No,800000,7,0,No,No
+1247,26,Private Sector/Self Employed,Yes,500000,7,0,No,No
+91,28,Government Sector,Yes,300000,4,1,No,No
+1786,31,Private Sector/Self Employed,Yes,950000,4,0,No,No
+1121,34,Private Sector/Self Employed,Yes,1000000,6,1,No,No
+1483,28,Government Sector,Yes,300000,3,1,No,No
+1841,32,Government Sector,Yes,350000,3,0,No,Yes
+122,32,Government Sector,Yes,800000,6,1,No,No
+1945,28,Private Sector/Self Employed,No,550000,4,1,No,Yes
+521,28,Private Sector/Self Employed,Yes,1100000,6,0,No,No
+609,28,Private Sector/Self Employed,Yes,700000,7,1,Yes,Yes
+1002,29,Private Sector/Self Employed,Yes,500000,8,0,No,No
+1907,28,Private Sector/Self Employed,Yes,600000,5,0,Yes,No
+1914,30,Private Sector/Self Employed,No,550000,6,0,No,No
+1899,31,Private Sector/Self Employed,Yes,1250000,4,1,No,No
+18,29,Private Sector/Self Employed,Yes,1050000,5,1,No,No
+1214,31,Government Sector,Yes,1200000,2,1,No,No
+1615,30,Private Sector/Self Employed,No,650000,5,0,No,No
+1461,31,Government Sector,No,400000,8,0,No,No
+1041,26,Private Sector/Self Employed,Yes,500000,2,1,No,No
+1785,25,Private Sector/Self Employed,No,1150000,2,0,No,Yes
+598,35,Private Sector/Self Employed,No,800000,6,0,Yes,No
+198,25,Private Sector/Self Employed,No,1350000,4,0,No,Yes
+757,27,Government Sector,Yes,500000,6,1,No,No
+23,28,Government Sector,Yes,600000,9,0,No,No
+436,28,Private Sector/Self Employed,Yes,1200000,4,1,No,Yes
+1313,29,Private Sector/Self Employed,Yes,900000,7,0,No,No
+861,30,Private Sector/Self Employed,No,1450000,3,1,Yes,Yes
+997,28,Private Sector/Self Employed,Yes,700000,4,1,No,No
+1186,31,Private Sector/Self Employed,Yes,900000,3,1,No,No
+1632,32,Government Sector,Yes,800000,7,0,No,No
+1284,33,Government Sector,Yes,400000,5,0,No,No
+444,28,Private Sector/Self Employed,Yes,700000,4,1,No,No
+471,26,Private Sector/Self Employed,Yes,1250000,3,0,No,No
+1648,28,Private Sector/Self Employed,Yes,1100000,5,0,No,No
+1349,26,Private Sector/Self Employed,Yes,1400000,3,0,No,Yes
+493,29,Private Sector/Self Employed,Yes,1050000,7,0,No,No
+1355,30,Private Sector/Self Employed,No,650000,6,0,Yes,No
+1772,28,Private Sector/Self Employed,Yes,1150000,8,0,Yes,No
+876,28,Private Sector/Self Employed,Yes,800000,4,1,No,No
+926,34,Private Sector/Self Employed,Yes,700000,5,0,No,No
+203,28,Private Sector/Self Employed,Yes,1100000,4,1,No,No
+1807,26,Private Sector/Self Employed,Yes,600000,3,0,No,No
+272,28,Private Sector/Self Employed,Yes,700000,3,1,No,No
+577,27,Government Sector,Yes,500000,3,0,No,No
+794,26,Government Sector,Yes,500000,7,1,No,No
+788,34,Private Sector/Self Employed,Yes,500000,7,0,No,No
+722,33,Government Sector,Yes,400000,8,0,No,No
+60,31,Private Sector/Self Employed,Yes,1250000,4,0,Yes,Yes
+305,26,Private Sector/Self Employed,Yes,1250000,4,1,No,Yes
+442,29,Private Sector/Self Employed,Yes,1100000,9,0,No,No
+1097,28,Government Sector,Yes,600000,8,0,Yes,No
+618,31,Private Sector/Self Employed,Yes,1650000,2,0,Yes,No
+95,26,Private Sector/Self Employed,Yes,1400000,5,0,No,Yes
+1293,28,Government Sector,Yes,300000,6,1,No,No
+1938,34,Private Sector/Self Employed,No,1400000,4,0,No,Yes
+1753,33,Government Sector,Yes,600000,7,0,No,No
+510,31,Private Sector/Self Employed,Yes,950000,5,0,No,No
+641,34,Private Sector/Self Employed,Yes,700000,5,1,No,Yes
+629,25,Private Sector/Self Employed,No,600000,4,0,Yes,No
+944,33,Government Sector,Yes,600000,3,0,No,No
+1285,26,Government Sector,Yes,500000,4,0,No,No
+1653,26,Private Sector/Self Employed,Yes,500000,5,1,No,No
+32,25,Government Sector,Yes,750000,4,0,No,No
+1737,27,Government Sector,Yes,1050000,7,0,No,No
+803,29,Private Sector/Self Employed,Yes,1050000,7,1,No,No
+1640,26,Private Sector/Self Employed,Yes,600000,6,0,No,No
+1793,34,Private Sector/Self Employed,Yes,1500000,3,0,Yes,Yes
+209,25,Private Sector/Self Employed,No,1700000,3,1,Yes,No
+902,34,Private Sector/Self Employed,Yes,500000,7,1,No,No
+281,26,Private Sector/Self Employed,Yes,750000,6,0,No,No
+1866,28,Government Sector,Yes,300000,7,1,No,No
+27,28,Private Sector/Self Employed,Yes,1250000,2,0,Yes,No
+548,27,Government Sector,Yes,850000,5,0,No,No
+453,31,Private Sector/Self Employed,Yes,1100000,3,0,No,No
+1471,35,Government Sector,Yes,1100000,3,0,No,No
+595,25,Private Sector/Self Employed,No,1150000,5,1,Yes,No
+169,25,Private Sector/Self Employed,No,600000,6,0,No,No
+818,28,Private Sector/Self Employed,Yes,900000,4,0,No,No
+432,34,Private Sector/Self Employed,Yes,500000,5,0,No,No
+1106,34,Private Sector/Self Employed,Yes,1300000,4,0,No,No
+1299,28,Private Sector/Self Employed,Yes,700000,6,1,No,No
+74,28,Private Sector/Self Employed,Yes,700000,4,1,No,No
+1578,27,Government Sector,Yes,500000,6,1,No,No
+848,35,Government Sector,Yes,900000,6,1,No,No
+911,27,Government Sector,Yes,1050000,5,0,Yes,No
+1037,29,Private Sector/Self Employed,Yes,900000,7,0,No,No
+923,28,Private Sector/Self Employed,Yes,1100000,4,1,Yes,No
+1484,28,Private Sector/Self Employed,Yes,800000,4,1,No,No
+1401,28,Government Sector,Yes,300000,3,0,No,No
+1540,34,Government Sector,Yes,1100000,4,0,No,No
+28,26,Private Sector/Self Employed,Yes,600000,4,0,Yes,No
+1444,31,Private Sector/Self Employed,Yes,900000,6,0,No,No
+1470,33,Government Sector,Yes,1100000,4,0,No,No
+1963,33,Government Sector,Yes,1100000,4,0,No,No
+1031,29,Private Sector/Self Employed,Yes,1200000,9,0,No,No
+555,26,Private Sector/Self Employed,Yes,1750000,4,0,No,No
+736,30,Private Sector/Self Employed,No,650000,7,0,No,No
+847,29,Private Sector/Self Employed,Yes,1050000,4,0,No,No
+517,31,Private Sector/Self Employed,Yes,1250000,5,0,No,No
+423,25,Private Sector/Self Employed,Yes,1400000,5,0,No,Yes
+492,34,Private Sector/Self Employed,Yes,500000,3,0,No,No
+1184,35,Private Sector/Self Employed,No,800000,4,0,No,No
+1716,31,Private Sector/Self Employed,Yes,1250000,3,0,No,No
+938,28,Government Sector,Yes,1200000,8,0,Yes,No
+1255,28,Government Sector,Yes,1200000,3,0,No,No
+1084,29,Private Sector/Self Employed,Yes,1050000,4,0,No,No
+1886,32,Government Sector,Yes,350000,6,0,No,No
+167,31,Government Sector,Yes,400000,3,0,No,No
+1377,26,Government Sector,Yes,1450000,3,0,Yes,Yes
+570,25,Private Sector/Self Employed,No,1150000,5,1,No,No
+1724,28,Private Sector/Self Employed,Yes,900000,4,0,Yes,No
+812,33,Government Sector,Yes,1000000,4,1,No,No
+179,26,Private Sector/Self Employed,Yes,1250000,4,0,No,No
+350,31,Private Sector/Self Employed,Yes,950000,5,0,Yes,Yes
+1635,31,Private Sector/Self Employed,Yes,1250000,5,0,No,No
+163,32,Government Sector,Yes,350000,5,0,No,No
+772,35,Private Sector/Self Employed,No,950000,3,0,No,No
+1808,28,Private Sector/Self Employed,Yes,500000,4,1,No,No
+1168,28,Government Sector,Yes,600000,3,0,No,No
+1240,28,Private Sector/Self Employed,Yes,700000,5,0,Yes,No
+1023,25,Private Sector/Self Employed,Yes,1400000,3,0,No,Yes
+1751,28,Government Sector,Yes,300000,5,0,No,No
+1725,28,Private Sector/Self Employed,Yes,700000,3,0,No,No
+1931,34,Private Sector/Self Employed,Yes,1300000,4,1,No,No
+679,26,Government Sector,Yes,500000,5,0,No,No
+94,34,Private Sector/Self Employed,Yes,1300000,4,0,No,No
+1978,34,Private Sector/Self Employed,Yes,700000,5,0,No,No
+1523,27,Government Sector,Yes,750000,5,0,No,No
+1177,34,Private Sector/Self Employed,Yes,700000,2,1,Yes,No
+1346,29,Private Sector/Self Employed,Yes,1100000,4,0,No,No
+930,34,Private Sector/Self Employed,Yes,700000,7,1,No,No
+1926,25,Private Sector/Self Employed,Yes,1400000,5,0,No,Yes
+685,34,Private Sector/Self Employed,Yes,1500000,4,1,Yes,Yes
+1609,27,Government Sector,Yes,500000,3,1,No,No
+714,28,Government Sector,Yes,300000,4,0,No,No
+66,30,Private Sector/Self Employed,No,800000,6,0,Yes,No
+1815,33,Private Sector/Self Employed,Yes,550000,3,1,No,No
+1404,34,Private Sector/Self Employed,Yes,1000000,6,0,No,No
+34,28,Private Sector/Self Employed,Yes,800000,9,0,No,No
+1679,28,Private Sector/Self Employed,Yes,550000,4,0,No,No
+545,26,Private Sector/Self Employed,Yes,600000,6,1,No,No
+121,26,Private Sector/Self Employed,Yes,1400000,6,0,No,Yes
+1248,28,Private Sector/Self Employed,Yes,1200000,5,0,No,No
+9,33,Government Sector,Yes,800000,3,0,Yes,No
+1833,29,Private Sector/Self Employed,Yes,1200000,5,0,No,No
+684,25,Private Sector/Self Employed,No,1150000,4,0,No,No
+593,28,Government Sector,Yes,600000,4,0,No,No
+665,28,Private Sector/Self Employed,Yes,1250000,6,0,Yes,No
+681,28,Private Sector/Self Employed,Yes,1200000,4,0,No,No
+1710,31,Private Sector/Self Employed,Yes,1350000,4,0,No,Yes
+1008,26,Private Sector/Self Employed,Yes,1400000,5,0,No,Yes
+321,28,Private Sector/Self Employed,Yes,500000,3,0,No,No
+1476,33,Private Sector/Self Employed,Yes,1750000,6,0,No,No
+1000,28,Government Sector,Yes,300000,4,0,No,No
+1892,28,Private Sector/Self Employed,Yes,700000,5,0,No,No
+59,33,Private Sector/Self Employed,Yes,1400000,9,0,Yes,Yes
+1610,33,Private Sector/Self Employed,Yes,550000,5,0,Yes,No
+868,28,Government Sector,Yes,1200000,5,1,No,No
+1521,29,Private Sector/Self Employed,Yes,1350000,5,0,No,Yes
+1061,31,Government Sector,Yes,400000,3,0,No,No
+1856,26,Private Sector/Self Employed,Yes,600000,3,0,Yes,No
+528,25,Private Sector/Self Employed,No,1150000,5,0,No,No
+502,28,Government Sector,Yes,300000,4,1,No,No
+421,28,Government Sector,Yes,300000,4,0,No,No
+1055,25,Private Sector/Self Employed,Yes,1700000,5,0,Yes,No
+966,25,Private Sector/Self Employed,Yes,1700000,4,1,Yes,No
+184,25,Government Sector,Yes,750000,3,0,No,No
+1707,35,Private Sector/Self Employed,No,800000,4,0,No,No
+1439,33,Government Sector,Yes,400000,7,1,No,No
+588,35,Private Sector/Self Employed,No,800000,6,0,No,No
+485,27,Private Sector/Self Employed,No,450000,4,0,No,No
+1164,31,Private Sector/Self Employed,Yes,1400000,6,0,No,Yes
+1322,34,Private Sector/Self Employed,Yes,1050000,6,0,No,No
+601,34,Private Sector/Self Employed,Yes,1300000,5,0,No,No
+1464,31,Government Sector,Yes,400000,3,0,No,No
+536,30,Private Sector/Self Employed,No,500000,3,0,No,No
+1316,31,Private Sector/Self Employed,Yes,1400000,3,0,No,Yes
+109,25,Private Sector/Self Employed,Yes,1700000,3,0,Yes,No
+1244,25,Private Sector/Self Employed,No,1150000,3,1,No,Yes
+450,31,Private Sector/Self Employed,Yes,1250000,6,0,No,Yes
+1070,33,Government Sector,Yes,800000,5,1,No,No
+1057,28,Private Sector/Self Employed,Yes,700000,6,1,No,No
+638,26,Government Sector,Yes,1450000,3,0,Yes,Yes
+1501,28,Private Sector/Self Employed,Yes,800000,4,0,No,No
+1649,28,Private Sector/Self Employed,Yes,1150000,4,1,No,No
+349,28,Private Sector/Self Employed,Yes,500000,3,0,No,No
+974,26,Private Sector/Self Employed,Yes,1500000,4,0,Yes,Yes
+1671,29,Private Sector/Self Employed,Yes,1350000,8,0,No,Yes
+125,29,Private Sector/Self Employed,Yes,500000,3,1,No,No
+1315,25,Private Sector/Self Employed,No,1150000,3,0,No,No
+1520,28,Government Sector,Yes,600000,4,1,No,No
+238,29,Private Sector/Self Employed,Yes,600000,3,1,No,No
+304,34,Private Sector/Self Employed,Yes,1050000,3,0,No,No
+1488,28,Private Sector/Self Employed,Yes,700000,4,0,No,No
+467,26,Government Sector,Yes,500000,5,0,No,No
+1320,31,Private Sector/Self Employed,Yes,1350000,3,0,Yes,Yes
+881,29,Private Sector/Self Employed,Yes,1200000,4,0,No,No
+1474,28,Government Sector,Yes,300000,5,1,No,No
+689,27,Government Sector,Yes,500000,7,0,No,No
+339,29,Private Sector/Self Employed,Yes,1050000,5,0,No,No
+168,27,Government Sector,Yes,850000,7,1,No,No
+445,27,Government Sector,Yes,1050000,6,1,No,No
+1531,27,Government Sector,Yes,750000,5,0,No,No
+175,30,Private Sector/Self Employed,No,800000,3,0,No,No
+1950,28,Private Sector/Self Employed,Yes,1250000,6,0,No,Yes
+1450,34,Private Sector/Self Employed,Yes,1050000,7,0,No,No
+1493,32,Government Sector,Yes,900000,6,1,No,No
+1083,25,Private Sector/Self Employed,No,1150000,8,0,No,No
+906,34,Government Sector,Yes,1300000,5,1,No,No
+694,34,Government Sector,Yes,1100000,6,1,No,No
+1178,28,Private Sector/Self Employed,Yes,800000,4,0,No,No
+457,25,Private Sector/Self Employed,No,1150000,4,0,No,No
+1775,33,Government Sector,Yes,1100000,8,0,No,No
+1884,28,Government Sector,Yes,1200000,4,0,No,No
+1541,28,Private Sector/Self Employed,Yes,1100000,4,0,No,No
+483,28,Private Sector/Self Employed,Yes,1150000,4,0,No,No
+575,29,Private Sector/Self Employed,Yes,900000,6,0,Yes,No
+176,34,Private Sector/Self Employed,Yes,1050000,6,0,No,No
+1912,34,Private Sector/Self Employed,Yes,500000,4,0,No,No
+1060,35,Private Sector/Self Employed,No,950000,5,1,No,No
+70,34,Government Sector,Yes,1300000,4,0,No,No
+1750,28,Private Sector/Self Employed,Yes,700000,5,0,No,No
+1370,28,Private Sector/Self Employed,Yes,800000,6,0,No,No
+1817,29,Private Sector/Self Employed,Yes,1050000,7,0,Yes,No
+585,34,Private Sector/Self Employed,No,1400000,7,1,No,Yes
+1368,29,Private Sector/Self Employed,Yes,1350000,6,0,No,Yes
+1624,25,Private Sector/Self Employed,No,1150000,6,1,No,No
+1659,29,Private Sector/Self Employed,Yes,500000,3,0,No,No
+461,35,Government Sector,Yes,900000,4,1,No,No
+245,28,Private Sector/Self Employed,Yes,1150000,3,0,No,No
+979,30,Private Sector/Self Employed,No,650000,4,0,No,No
+1846,32,Government Sector,Yes,850000,4,0,No,No
+935,27,Private Sector/Self Employed,No,1550000,7,0,Yes,No
+1795,27,Government Sector,Yes,850000,4,0,No,No
+842,29,Private Sector/Self Employed,Yes,1100000,3,0,No,No
+928,26,Private Sector/Self Employed,Yes,450000,7,0,No,No
+1288,28,Private Sector/Self Employed,Yes,750000,3,0,No,No
+1220,28,Private Sector/Self Employed,Yes,1100000,5,0,No,No
+1071,27,Government Sector,Yes,750000,8,0,No,No
+1739,29,Private Sector/Self Employed,Yes,500000,2,0,No,No
+53,28,Government Sector,Yes,300000,2,0,No,No
+296,32,Government Sector,Yes,350000,7,0,No,No
+1409,28,Private Sector/Self Employed,Yes,1200000,3,0,No,No
+1860,28,Private Sector/Self Employed,Yes,550000,8,0,No,No
+392,31,Private Sector/Self Employed,Yes,950000,4,1,No,No
+581,28,Private Sector/Self Employed,Yes,700000,4,1,No,No
+1854,34,Government Sector,Yes,1300000,5,0,Yes,No
+200,27,Government Sector,Yes,1050000,4,0,No,No
+961,28,Government Sector,No,300000,6,1,No,No
+653,27,Government Sector,Yes,500000,7,0,No,No
+632,34,Private Sector/Self Employed,Yes,700000,3,0,No,No
+1836,33,Government Sector,Yes,800000,4,0,No,No
+1407,31,Private Sector/Self Employed,Yes,1250000,4,0,No,No
+1631,33,Government Sector,Yes,1000000,3,0,No,No
+1868,25,Private Sector/Self Employed,Yes,1400000,5,0,No,Yes
+535,31,Private Sector/Self Employed,Yes,1350000,5,0,No,Yes
+1352,31,Government Sector,Yes,400000,5,0,No,No
+320,35,Private Sector/Self Employed,No,800000,5,0,No,No
+1399,25,Private Sector/Self Employed,No,600000,3,1,No,No
+252,29,Private Sector/Self Employed,Yes,1350000,5,1,No,Yes
+797,28,Government Sector,Yes,300000,4,0,No,No
+1298,27,Government Sector,Yes,500000,2,1,No,No
+1545,34,Private Sector/Self Employed,No,1400000,3,0,Yes,Yes
+1329,33,Private Sector/Self Employed,Yes,1400000,4,0,No,Yes
+1,31,Private Sector/Self Employed,Yes,1250000,7,0,No,No
+887,28,Government Sector,Yes,600000,4,0,No,No
+389,31,Private Sector/Self Employed,Yes,1350000,5,0,No,Yes
+1479,25,Private Sector/Self Employed,Yes,1400000,7,0,No,Yes
+1379,35,Private Sector/Self Employed,No,800000,3,0,Yes,No
+1701,31,Private Sector/Self Employed,Yes,1250000,6,0,No,No
+1143,27,Government Sector,Yes,500000,4,0,No,No
+1802,31,Government Sector,Yes,400000,6,0,No,No
+126,32,Government Sector,Yes,800000,5,0,Yes,No
+466,28,Private Sector/Self Employed,Yes,550000,4,0,No,No
+918,33,Government Sector,Yes,1000000,7,1,No,No
+1359,32,Government Sector,Yes,850000,9,0,Yes,No
+1770,34,Private Sector/Self Employed,Yes,1050000,4,1,No,No
+54,29,Private Sector/Self Employed,Yes,1200000,7,0,No,No
+469,25,Private Sector/Self Employed,No,1700000,5,0,Yes,No
+834,33,Private Sector/Self Employed,Yes,1400000,5,1,Yes,Yes
+1270,31,Government Sector,No,350000,3,0,No,No
+635,28,Private Sector/Self Employed,No,550000,4,0,No,No
+33,32,Government Sector,Yes,850000,3,0,No,No
+709,33,Private Sector/Self Employed,Yes,1500000,3,0,Yes,Yes
+1917,34,Private Sector/Self Employed,No,1300000,4,0,No,No
+318,34,Government Sector,Yes,1100000,3,0,No,No
+371,27,Government Sector,Yes,900000,5,1,No,Yes
+1314,31,Private Sector/Self Employed,Yes,1400000,6,0,No,Yes
+1675,33,Private Sector/Self Employed,Yes,750000,7,1,No,No
+1136,27,Private Sector/Self Employed,No,600000,6,0,No,No
+1390,32,Government Sector,Yes,900000,5,0,No,No
+1475,28,Government Sector,Yes,300000,4,0,No,No
+967,29,Private Sector/Self Employed,Yes,900000,5,0,No,No
+468,28,Private Sector/Self Employed,Yes,1200000,5,0,No,No
+1274,34,Private Sector/Self Employed,Yes,1000000,3,0,No,No
+505,28,Private Sector/Self Employed,Yes,800000,4,0,No,No
+1490,25,Private Sector/Self Employed,No,1150000,5,0,No,No
+1095,34,Government Sector,Yes,1100000,9,0,No,No
+1526,30,Private Sector/Self Employed,No,550000,5,1,No,No
+482,32,Government Sector,Yes,850000,9,0,No,No
+607,28,Private Sector/Self Employed,Yes,550000,8,1,No,No
+1794,28,Private Sector/Self Employed,Yes,1450000,5,0,Yes,Yes
+1179,27,Government Sector,Yes,500000,6,0,No,No
+893,31,Government Sector,Yes,400000,2,0,No,No
+129,29,Private Sector/Self Employed,Yes,1050000,6,0,No,No
+858,27,Government Sector,Yes,1050000,5,0,Yes,No
+1919,28,Government Sector,Yes,300000,6,0,No,No
+716,29,Private Sector/Self Employed,Yes,1100000,7,0,No,No
+1361,26,Private Sector/Self Employed,Yes,1400000,4,0,No,Yes
+57,34,Private Sector/Self Employed,Yes,1000000,6,0,No,No
+710,26,Government Sector,Yes,1450000,3,1,Yes,Yes
+1762,28,Private Sector/Self Employed,Yes,1300000,5,1,Yes,No
+1587,28,Private Sector/Self Employed,Yes,750000,3,0,No,No
+933,28,Government Sector,Yes,600000,5,0,No,Yes
+77,31,Government Sector,No,400000,4,0,No,No
+1573,33,Government Sector,Yes,650000,4,1,No,No
+1174,30,Private Sector/Self Employed,No,800000,4,1,Yes,No
+213,26,Private Sector/Self Employed,Yes,1400000,5,0,Yes,Yes
+1614,34,Government Sector,Yes,1300000,4,0,No,No
+647,34,Private Sector/Self Employed,No,1300000,5,0,Yes,No
+1335,25,Government Sector,Yes,750000,5,1,Yes,No
+775,32,Government Sector,Yes,350000,3,0,No,No
+1829,31,Private Sector/Self Employed,Yes,1400000,4,1,No,Yes
+1001,26,Private Sector/Self Employed,Yes,1250000,5,0,No,No
+51,29,Private Sector/Self Employed,Yes,1050000,3,0,No,No
+395,32,Government Sector,Yes,800000,5,0,No,No
+465,26,Private Sector/Self Employed,Yes,1500000,5,0,Yes,Yes
+259,33,Government Sector,Yes,400000,3,1,No,No
+1115,34,Private Sector/Self Employed,Yes,700000,2,0,No,No
+1400,29,Private Sector/Self Employed,Yes,1050000,6,1,Yes,No
+1218,28,Private Sector/Self Employed,Yes,1150000,7,0,No,No
+704,33,Government Sector,Yes,700000,8,0,No,No
+1916,28,Government Sector,Yes,1100000,6,1,No,No
+131,28,Private Sector/Self Employed,Yes,750000,4,0,No,No
+780,31,Government Sector,Yes,400000,6,0,No,No
+323,33,Private Sector/Self Employed,Yes,1400000,5,0,No,Yes
+1700,28,Private Sector/Self Employed,Yes,800000,6,1,No,No
+611,28,Private Sector/Self Employed,Yes,500000,6,1,No,No
+533,29,Private Sector/Self Employed,Yes,600000,3,0,No,No
+1881,34,Private Sector/Self Employed,Yes,1300000,4,0,No,No
+164,28,Government Sector,Yes,300000,6,0,No,No
+261,28,Private Sector/Self Employed,Yes,1100000,4,1,No,No
+1223,33,Private Sector/Self Employed,Yes,550000,5,1,No,No
+753,33,Government Sector,Yes,1100000,4,1,No,No
+1258,34,Government Sector,Yes,1300000,7,1,No,No
+1855,27,Private Sector/Self Employed,No,1550000,4,0,Yes,No
+1557,32,Government Sector,Yes,800000,7,0,No,No
+1190,31,Private Sector/Self Employed,Yes,1250000,3,0,No,No
+1869,31,Government Sector,Yes,1500000,2,0,Yes,Yes
+777,27,Government Sector,Yes,500000,5,0,No,No
+412,28,Government Sector,Yes,300000,7,1,No,No
+905,28,Private Sector/Self Employed,Yes,550000,6,0,No,Yes
+165,33,Government Sector,Yes,1000000,4,0,No,No
+1291,34,Private Sector/Self Employed,Yes,1500000,5,1,Yes,Yes
+1902,33,Government Sector,Yes,400000,2,0,No,No
+1253,25,Private Sector/Self Employed,Yes,1700000,3,0,Yes,No
+1297,28,Government Sector,Yes,300000,4,0,No,No
+308,34,Private Sector/Self Employed,Yes,1000000,9,1,No,No
+72,28,Private Sector/Self Employed,Yes,800000,6,1,Yes,No
+973,26,Private Sector/Self Employed,Yes,1500000,4,0,Yes,Yes
+1936,33,Private Sector/Self Employed,Yes,1500000,7,0,Yes,Yes
+987,33,Private Sector/Self Employed,Yes,1400000,2,1,No,Yes
+1765,34,Private Sector/Self Employed,Yes,1300000,6,1,No,No
+301,27,Government Sector,Yes,850000,4,1,No,No
+1858,30,Private Sector/Self Employed,No,750000,3,1,No,No
+919,26,Private Sector/Self Employed,Yes,1500000,6,0,Yes,Yes
+713,28,Private Sector/Self Employed,Yes,1100000,2,1,No,No
+1682,30,Private Sector/Self Employed,No,800000,3,0,No,No
+864,26,Private Sector/Self Employed,Yes,600000,6,0,Yes,No
+1073,28,Private Sector/Self Employed,Yes,500000,7,0,No,No
+945,28,Private Sector/Self Employed,Yes,1200000,9,0,No,No
+962,33,Government Sector,Yes,1000000,5,0,No,No
+960,28,Private Sector/Self Employed,Yes,1450000,4,0,Yes,Yes
+1651,34,Private Sector/Self Employed,Yes,1500000,3,0,Yes,Yes
+332,31,Private Sector/Self Employed,Yes,1650000,7,1,Yes,No
+1498,33,Government Sector,Yes,600000,4,0,No,No
+52,31,Private Sector/Self Employed,Yes,1250000,4,0,No,Yes
+810,29,Private Sector/Self Employed,Yes,600000,4,1,No,No
+1170,34,Government Sector,Yes,1300000,5,0,No,No
+1295,35,Government Sector,Yes,900000,7,1,Yes,No
+1287,34,Private Sector/Self Employed,Yes,500000,4,0,No,No
+532,31,Government Sector,Yes,1300000,5,1,Yes,No
+494,34,Government Sector,Yes,1300000,5,1,No,Yes
+322,28,Private Sector/Self Employed,Yes,750000,3,0,No,No
+1323,34,Private Sector/Self Employed,Yes,1750000,5,0,No,No
+1011,35,Private Sector/Self Employed,No,950000,9,0,No,No
+1661,28,Private Sector/Self Employed,Yes,700000,4,0,No,No
+1898,25,Private Sector/Self Employed,No,600000,4,1,Yes,No
+374,28,Government Sector,Yes,600000,7,0,No,No
+139,35,Private Sector/Self Employed,No,800000,7,1,No,No
+1887,31,Private Sector/Self Employed,Yes,900000,5,0,No,No
+1480,27,Government Sector,Yes,750000,4,0,Yes,No
+1395,35,Government Sector,Yes,1100000,2,1,No,No
+343,28,Private Sector/Self Employed,Yes,1250000,7,0,No,No
+875,29,Private Sector/Self Employed,Yes,600000,3,1,No,No
+732,30,Private Sector/Self Employed,No,800000,4,0,No,No
+418,34,Private Sector/Self Employed,Yes,1000000,3,1,No,No
+360,28,Private Sector/Self Employed,No,550000,4,0,No,No
+1810,27,Private Sector/Self Employed,No,350000,4,0,No,No
+626,28,Private Sector/Self Employed,Yes,1100000,6,0,Yes,No
+199,30,Private Sector/Self Employed,No,1450000,5,0,Yes,Yes
+1966,34,Private Sector/Self Employed,Yes,700000,3,0,Yes,No
+833,31,Government Sector,Yes,1500000,3,0,Yes,Yes
+1906,28,Private Sector/Self Employed,Yes,1450000,6,0,Yes,Yes
+1678,31,Private Sector/Self Employed,Yes,1350000,7,0,Yes,Yes
+387,28,Government Sector,Yes,300000,5,0,No,No
+659,34,Private Sector/Self Employed,Yes,500000,3,0,No,No
+1819,25,Private Sector/Self Employed,Yes,1400000,3,0,No,Yes
+853,31,Government Sector,Yes,400000,6,1,No,No
+1105,26,Government Sector,Yes,1450000,7,0,Yes,Yes
+8,28,Private Sector/Self Employed,Yes,1450000,6,1,Yes,Yes
+862,28,Government Sector,Yes,300000,3,1,No,No
+1768,28,Private Sector/Self Employed,Yes,650000,3,0,No,No
+1930,31,Government Sector,Yes,1200000,7,0,No,No
+1598,32,Government Sector,Yes,650000,5,1,No,No
+1343,26,Private Sector/Self Employed,Yes,1500000,5,1,Yes,Yes
+688,33,Government Sector,Yes,400000,5,1,No,No
+419,25,Private Sector/Self Employed,No,1150000,4,0,No,No
+294,29,Private Sector/Self Employed,Yes,1200000,4,0,No,No
+1947,32,Government Sector,Yes,900000,2,0,Yes,No
+1456,25,Private Sector/Self Employed,No,1700000,3,0,Yes,No
+561,29,Private Sector/Self Employed,Yes,1050000,9,0,No,No
+298,25,Private Sector/Self Employed,No,1700000,4,0,Yes,No
+1784,34,Private Sector/Self Employed,Yes,700000,4,0,No,No
+1528,28,Private Sector/Self Employed,Yes,750000,2,0,No,No
+297,35,Private Sector/Self Employed,No,800000,7,1,No,No
+479,34,Government Sector,Yes,1300000,4,1,No,No
+148,25,Private Sector/Self Employed,Yes,1400000,4,0,No,Yes
+738,28,Private Sector/Self Employed,Yes,800000,7,0,Yes,No
+1112,35,Private Sector/Self Employed,No,800000,4,0,No,No
+1272,33,Government Sector,Yes,650000,3,0,No,No
+1103,34,Private Sector/Self Employed,Yes,1050000,5,1,No,No
+330,35,Private Sector/Self Employed,No,800000,4,0,No,No
+1516,34,Government Sector,Yes,1300000,2,0,No,No
+249,28,Private Sector/Self Employed,Yes,1150000,5,0,No,No
+924,31,Government Sector,Yes,400000,6,0,No,No
+14,31,Government Sector,Yes,400000,3,0,No,No
+5,25,Private Sector/Self Employed,No,1150000,4,0,No,No
+295,28,Private Sector/Self Employed,Yes,550000,5,0,No,No
+1087,31,Government Sector,Yes,1200000,7,1,No,No
+270,34,Government Sector,Yes,1300000,6,0,No,Yes
+262,26,Private Sector/Self Employed,Yes,750000,4,1,No,No
+1032,32,Government Sector,Yes,850000,3,0,No,No
+1436,31,Private Sector/Self Employed,Yes,900000,5,0,No,No
+678,25,Private Sector/Self Employed,Yes,1700000,4,0,Yes,No
+35,33,Private Sector/Self Employed,Yes,1400000,4,0,Yes,Yes
+462,26,Private Sector/Self Employed,Yes,1250000,6,1,No,No
+1535,33,Government Sector,Yes,650000,5,0,Yes,No
+97,29,Private Sector/Self Employed,Yes,350000,7,0,No,No
+1446,29,Private Sector/Self Employed,Yes,500000,5,0,No,No
+1827,32,Government Sector,Yes,800000,5,1,Yes,No
+955,34,Private Sector/Self Employed,Yes,1300000,6,0,No,No
+1362,28,Private Sector/Self Employed,Yes,700000,2,1,No,No
+1894,28,Private Sector/Self Employed,Yes,700000,4,1,No,No
+1974,28,Private Sector/Self Employed,Yes,1200000,6,0,Yes,No
+642,26,Government Sector,Yes,500000,6,1,No,No
+993,34,Private Sector/Self Employed,Yes,700000,2,0,Yes,No
+766,34,Private Sector/Self Employed,Yes,700000,3,1,No,No
+251,28,Government Sector,Yes,300000,5,0,No,No
+894,30,Private Sector/Self Employed,No,800000,5,0,No,No
+194,33,Government Sector,Yes,1100000,5,0,No,No
+115,29,Private Sector/Self Employed,Yes,900000,4,0,No,No
+1964,28,Government Sector,Yes,1100000,4,0,No,No
+727,34,Government Sector,Yes,1100000,7,1,No,No
+1278,30,Private Sector/Self Employed,No,550000,3,0,No,No
+277,31,Private Sector/Self Employed,Yes,950000,7,0,Yes,No
+1781,29,Private Sector/Self Employed,Yes,600000,5,1,No,No
+743,29,Private Sector/Self Employed,Yes,500000,6,0,No,No
+1206,29,Private Sector/Self Employed,Yes,1200000,3,0,No,No
+1746,31,Government Sector,Yes,400000,2,0,No,No
+1277,34,Private Sector/Self Employed,Yes,1500000,2,0,Yes,Yes
+1583,28,Government Sector,Yes,300000,6,0,No,No
+1822,35,Private Sector/Self Employed,No,800000,5,0,No,No
+1593,26,Private Sector/Self Employed,Yes,500000,8,0,No,No
+1556,30,Private Sector/Self Employed,No,1450000,6,0,Yes,Yes
+1134,31,Private Sector/Self Employed,Yes,1250000,7,0,No,No
+1851,28,Private Sector/Self Employed,No,550000,6,0,No,No
+1538,31,Government Sector,Yes,400000,5,0,No,No
+1096,30,Private Sector/Self Employed,No,1450000,7,1,Yes,Yes
+1791,28,Private Sector/Self Employed,Yes,1200000,5,0,No,No
+1564,30,Private Sector/Self Employed,No,550000,5,0,No,No
+728,28,Private Sector/Self Employed,Yes,1250000,6,0,No,Yes
+1672,28,Private Sector/Self Employed,Yes,1350000,5,0,No,Yes
+836,28,Private Sector/Self Employed,Yes,1450000,4,0,Yes,Yes
+188,26,Government Sector,Yes,500000,4,0,No,No
+1294,28,Private Sector/Self Employed,Yes,600000,4,0,No,No
+417,31,Private Sector/Self Employed,Yes,1400000,3,0,Yes,Yes
+608,28,Private Sector/Self Employed,Yes,800000,4,1,Yes,No
+968,31,Private Sector/Self Employed,Yes,1250000,5,1,No,No
+795,32,Government Sector,Yes,350000,3,0,No,No
+717,28,Private Sector/Self Employed,Yes,800000,4,0,No,No
+580,31,Private Sector/Self Employed,Yes,1250000,4,0,No,No
+546,28,Private Sector/Self Employed,Yes,550000,3,0,No,No
+563,33,Private Sector/Self Employed,Yes,550000,3,1,No,No
+1857,27,Government Sector,Yes,900000,4,0,No,No
+1839,32,Government Sector,Yes,350000,3,0,No,Yes
+319,25,Private Sector/Self Employed,Yes,1700000,2,1,Yes,No
+1308,31,Private Sector/Self Employed,Yes,1250000,7,1,No,No
+854,32,Government Sector,Yes,850000,3,1,No,No
+248,34,Government Sector,Yes,1300000,6,0,No,No
+430,26,Private Sector/Self Employed,Yes,1300000,7,0,No,No
+299,27,Private Sector/Self Employed,No,450000,3,0,No,No
+516,31,Private Sector/Self Employed,Yes,1250000,3,1,No,No
+1173,32,Government Sector,Yes,850000,7,0,No,Yes
+838,29,Private Sector/Self Employed,Yes,1100000,5,0,Yes,No
+730,31,Private Sector/Self Employed,Yes,500000,6,0,No,No
+1454,27,Government Sector,Yes,1050000,7,1,No,No
+1204,28,Private Sector/Self Employed,Yes,800000,3,1,No,No
+404,33,Government Sector,Yes,650000,5,1,No,No
+1158,34,Private Sector/Self Employed,Yes,700000,2,0,No,No
+415,28,Government Sector,Yes,600000,5,0,No,No
+1595,34,Private Sector/Self Employed,Yes,500000,5,0,No,No
+1720,29,Private Sector/Self Employed,Yes,1100000,2,0,No,No
+1199,28,Government Sector,Yes,1200000,7,1,No,No
+628,28,Private Sector/Self Employed,Yes,1150000,9,0,No,No
+996,31,Private Sector/Self Employed,Yes,1400000,4,0,Yes,Yes
+214,27,Government Sector,Yes,850000,5,1,No,Yes
+1591,28,Government Sector,Yes,300000,3,0,No,No
+1016,29,Private Sector/Self Employed,Yes,350000,9,1,No,No
+971,34,Private Sector/Self Employed,Yes,1050000,6,0,No,Yes
+345,29,Private Sector/Self Employed,Yes,1200000,5,0,No,Yes
+127,27,Government Sector,Yes,750000,5,0,No,No
+809,30,Private Sector/Self Employed,No,1450000,5,1,Yes,Yes
+331,33,Private Sector/Self Employed,Yes,550000,4,0,No,No
+1155,28,Government Sector,Yes,600000,4,0,Yes,No
+1047,31,Private Sector/Self Employed,Yes,1350000,4,0,No,Yes
+369,32,Government Sector,Yes,800000,7,1,No,No
+1360,34,Private Sector/Self Employed,Yes,1300000,2,0,No,No
+1582,31,Private Sector/Self Employed,Yes,900000,4,0,No,No
+786,29,Private Sector/Self Employed,Yes,500000,2,0,No,No
+1434,34,Private Sector/Self Employed,Yes,1750000,3,0,Yes,No
+80,26,Private Sector/Self Employed,Yes,1300000,4,1,No,No
+443,25,Private Sector/Self Employed,No,1150000,6,0,No,No
+1473,29,Private Sector/Self Employed,Yes,1050000,6,0,No,No
+96,28,Private Sector/Self Employed,Yes,700000,4,0,No,No
+941,34,Private Sector/Self Employed,Yes,1000000,5,0,No,No
+26,34,Private Sector/Self Employed,No,1300000,6,0,Yes,No
+565,28,Private Sector/Self Employed,Yes,800000,5,0,No,No
+1144,31,Government Sector,No,300000,4,0,No,No
+1045,28,Private Sector/Self Employed,Yes,1100000,4,1,No,No
+342,28,Private Sector/Self Employed,Yes,1100000,2,0,No,No
+393,29,Private Sector/Self Employed,Yes,1050000,3,0,Yes,No
+572,28,Private Sector/Self Employed,No,550000,5,0,No,No
+658,30,Private Sector/Self Employed,No,1450000,6,0,Yes,Yes
