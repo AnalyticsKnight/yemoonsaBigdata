@@ -1,0 +1,301 @@
+id,Gender,Education,Occupation Type,Residence Type,Experience Using Metaverse,Age,Annual Salary
+1,other,High school graduate,Agriculture,Single-family home,yes,1,222000
+2,female,Middle school graduate,Electric power industry,Apartment,yes,40,47000
+3,other,Bachelor's degree,Fishing industry,Multi-family home,no,70,248000
+4,other,Middle school graduate,Maintenance industry,Apartment,yes,48,418000
+5,female,Doctorate,Fishing industry,Single-family home,yes,61,222000
+6,male,Doctorate,Fishing industry,Townhouse,no,44,439000
+7,female,Master's degree,Construction industry,Multiple home,yes,81,228000
+8,male,Middle school graduate,Finance industry,Townhouse,yes,94,380000
+9,female,Elementary school graduate,Wholesale industry,Multi-family home,yes,15,65000
+10,male,Elementary school graduate,Electric power industry,Apartment,yes,76,140000
+11,other,Doctorate,Fishing industry,Apartment,no,68,404000
+12,other,Middle school graduate,Agriculture,Single-family home,no,86,142000
+13,other,Bachelor's degree,Manufacturing industry,Multi-family home,yes,73,34000
+14,other,High school graduate,Maintenance industry,Apartment,yes,11,360000
+15,other,High school graduate,Mining,Single-family home,yes,10,406000
+16,male,Doctorate,Forestry,Single-family home,no,1,308000
+17,other,High school graduate,Broadcasting industry,Apartment,yes,61,46000
+18,male,Bachelor's degree,Distribution industry,Officetel,no,6,111000
+19,male,Bachelor's degree,Manufacturing industry,Multi-family home,no,10,387000
+20,other,High school graduate,Repair industry,Single-family home,yes,57,322000
+21,male,Doctorate,Water industry,Apartment,yes,64,477000
+22,other,Bachelor's degree,Manufacturing industry,Single-family home,yes,7,52000
+23,female,Master's degree,Finance industry,Multiple home,yes,57,386000
+24,other,High school graduate,Fishing industry,Multi-family home,no,60,142000
+25,other,Middle school graduate,Service industry,Apartment,yes,44,342000
+26,male,Bachelor's degree,Agriculture,Single-family home,yes,3,147000
+27,male,Master's degree,Maintenance industry,Multi-family home,no,87,155000
+28,other,Elementary school graduate,Mining,Multi-family home,yes,78,257000
+29,male,Bachelor's degree,Retail industry,Multi-family home,yes,15,212000
+30,female,Master's degree,Fishing industry,Multi-family home,no,95,360000
+31,other,Middle school graduate,Gas industry,Multiple home,no,3,338000
+32,female,High school graduate,Gas industry,Multi-family home,yes,76,87000
+33,female,Master's degree,Agriculture,Multiple home,yes,74,356000
+34,other,Elementary school graduate,Finance industry,Multi-family home,no,66,140000
+35,other,Master's degree,Fishing industry,Multiple home,no,64,424000
+36,other,High school graduate,Broadcasting industry,Multi-family home,no,61,82000
+37,other,Elementary school graduate,Finance industry,Apartment,no,99,131000
+38,male,Elementary school graduate,Distribution industry,Townhouse,no,70,55000
+39,male,Elementary school graduate,Repair industry,Apartment,no,48,202000
+40,female,Middle school graduate,Agriculture,Townhouse,no,33,450000
+41,other,High school graduate,Service industry,Multiple home,no,99,416000
+42,female,Bachelor's degree,Forestry,Officetel,no,43,69000
+43,other,Middle school graduate,Electric power industry,Officetel,yes,53,422000
+44,other,Middle school graduate,Insurance industry,Multiple home,no,58,233000
+45,male,Elementary school graduate,Repair industry,Townhouse,yes,54,334000
+46,other,Bachelor's degree,Retail industry,Single-family home,no,26,206000
+47,male,High school graduate,Water industry,Apartment,no,42,93000
+48,female,Middle school graduate,Manufacturing industry,Multiple home,yes,6,492000
+49,female,Doctorate,Maintenance industry,Townhouse,yes,18,479000
+50,female,Bachelor's degree,Electric power industry,Multiple home,no,47,378000
+51,female,Doctorate,Gas industry,Officetel,yes,20,177000
+52,female,High school graduate,Distribution industry,Multi-family home,yes,81,137000
+53,male,Bachelor's degree,Mining,Multiple home,no,99,245000
+54,other,Doctorate,Fishing industry,Multiple home,no,43,331000
+55,female,Elementary school graduate,Maintenance industry,Officetel,yes,74,98000
+56,male,High school graduate,Repair industry,Apartment,yes,67,390000
+57,male,Middle school graduate,Electric power industry,Townhouse,no,45,467000
+58,male,Doctorate,Maintenance industry,Apartment,no,74,427000
+59,male,High school graduate,Gas industry,Multiple home,no,37,371000
+60,male,High school graduate,Water industry,Officetel,yes,98,279000
+61,other,Doctorate,Repair industry,Officetel,no,55,398000
+62,female,Doctorate,Repair industry,Officetel,no,20,301000
+63,other,Master's degree,Finance industry,Multiple home,no,73,292000
+64,other,Middle school graduate,Distribution industry,Multiple home,no,43,34000
+65,female,High school graduate,Agriculture,Officetel,yes,9,226000
+66,male,High school graduate,Gas industry,Townhouse,no,62,268000
+67,male,Middle school graduate,Agriculture,Multiple home,yes,91,198000
+68,female,Master's degree,Manufacturing industry,Townhouse,yes,30,330000
+69,male,High school graduate,Construction industry,Multi-family home,yes,26,378000
+70,other,Master's degree,Insurance industry,Multi-family home,yes,62,218000
+71,female,Doctorate,Finance industry,Townhouse,yes,99,460000
+72,other,Doctorate,Insurance industry,Townhouse,no,71,156000
+73,other,Doctorate,Mining,Single-family home,yes,26,186000
+74,other,Bachelor's degree,Wholesale industry,Single-family home,no,24,114000
+75,female,Master's degree,Broadcasting industry,Officetel,yes,15,116000
+76,other,Master's degree,Forestry,Multi-family home,no,26,196000
+77,male,Elementary school graduate,Forestry,Multi-family home,yes,59,30000
+78,female,Bachelor's degree,Gas industry,Officetel,yes,80,459000
+79,other,Master's degree,Repair industry,Officetel,no,71,337000
+80,female,Elementary school graduate,Distribution industry,Apartment,yes,35,449000
+81,female,High school graduate,Repair industry,Officetel,yes,5,255000
+82,female,Master's degree,Distribution industry,Officetel,no,37,288000
+83,other,Bachelor's degree,Mining,Officetel,no,42,444000
+84,male,Master's degree,Retail industry,Officetel,yes,99,121000
+85,other,Bachelor's degree,Service industry,Townhouse,yes,30,318000
+86,male,Middle school graduate,Manufacturing industry,Multiple home,no,82,326000
+87,other,High school graduate,Water industry,Officetel,yes,60,270000
+88,other,High school graduate,Finance industry,Multi-family home,no,52,420000
+89,female,Elementary school graduate,Distribution industry,Apartment,no,87,103000
+90,female,Middle school graduate,Distribution industry,Multiple home,yes,78,28000
+91,other,Doctorate,Gas industry,Multiple home,yes,31,392000
+92,other,Elementary school graduate,Fishing industry,Multi-family home,yes,4,177000
+93,other,Middle school graduate,Fishing industry,Officetel,no,19,356000
+94,female,Master's degree,Service industry,Multiple home,no,50,122000
+95,male,Middle school graduate,Manufacturing industry,Apartment,yes,98,123000
+96,male,Middle school graduate,Forestry,Single-family home,yes,35,116000
+97,male,Elementary school graduate,Repair industry,Multiple home,yes,17,438000
+98,other,High school graduate,Finance industry,Townhouse,no,75,470000
+99,other,Middle school graduate,Repair industry,Townhouse,yes,20,182000
+100,male,Elementary school graduate,Wholesale industry,Multiple home,no,26,151000
+101,male,Bachelor's degree,Wholesale industry,Multiple home,yes,13,127000
+102,male,Elementary school graduate,Gas industry,Apartment,no,64,388000
+103,other,High school graduate,Service industry,Multi-family home,no,14,191000
+104,other,Middle school graduate,Agriculture,Apartment,no,95,158000
+105,male,Elementary school graduate,Manufacturing industry,Single-family home,yes,99,291000
+106,other,Elementary school graduate,Repair industry,Multi-family home,no,25,50000
+107,other,Middle school graduate,Fishing industry,Apartment,yes,34,326000
+108,female,Middle school graduate,Water industry,Multiple home,yes,76,348000
+109,male,Master's degree,Mining,Multi-family home,yes,35,351000
+110,female,Bachelor's degree,Mining,Apartment,yes,88,17000
+111,other,Middle school graduate,Agriculture,Officetel,yes,68,173000
+112,female,High school graduate,Mining,Single-family home,yes,83,441000
+113,other,Elementary school graduate,Fishing industry,Single-family home,yes,20,372000
+114,female,Elementary school graduate,Insurance industry,Single-family home,no,40,232000
+115,female,High school graduate,Agriculture,Single-family home,yes,21,201000
+116,male,Middle school graduate,Fishing industry,Apartment,yes,23,216000
+117,male,Master's degree,Maintenance industry,Single-family home,yes,58,76000
+118,female,Elementary school graduate,Fishing industry,Townhouse,no,67,99000
+119,male,Bachelor's degree,Finance industry,Multiple home,yes,65,125000
+120,other,High school graduate,Manufacturing industry,Apartment,yes,89,392000
+121,male,Middle school graduate,Broadcasting industry,Apartment,yes,12,397000
+122,female,Elementary school graduate,Mining,Multi-family home,yes,55,240000
+123,other,Elementary school graduate,Fishing industry,Officetel,yes,14,421000
+124,other,Elementary school graduate,Service industry,Townhouse,no,90,161000
+125,female,Master's degree,Wholesale industry,Multiple home,yes,35,377000
+126,male,High school graduate,Wholesale industry,Single-family home,no,45,103000
+127,male,Master's degree,Broadcasting industry,Apartment,yes,13,188000
+128,male,High school graduate,Fishing industry,Townhouse,no,54,471000
+129,male,Elementary school graduate,Mining,Single-family home,yes,94,477000
+130,female,Doctorate,Maintenance industry,Multi-family home,no,31,273000
+131,other,Doctorate,Manufacturing industry,Multiple home,no,95,179000
+132,other,Elementary school graduate,Fishing industry,Multiple home,yes,33,199000
+133,other,Elementary school graduate,Service industry,Single-family home,no,82,67000
+134,other,Elementary school graduate,Retail industry,Single-family home,yes,52,37000
+135,male,Middle school graduate,Fishing industry,Townhouse,yes,91,257000
+136,male,High school graduate,Fishing industry,Apartment,no,66,73000
+137,female,Middle school graduate,Maintenance industry,Single-family home,no,56,248000
+138,other,Bachelor's degree,Service industry,Apartment,yes,19,220000
+139,male,Elementary school graduate,Repair industry,Officetel,yes,58,469000
+140,female,Middle school graduate,Agriculture,Townhouse,yes,69,234000
+141,male,Middle school graduate,Fishing industry,Townhouse,yes,24,403000
+142,female,High school graduate,Insurance industry,Multiple home,no,19,298000
+143,female,Master's degree,Manufacturing industry,Single-family home,no,88,55000
+144,other,Doctorate,Forestry,Multi-family home,yes,27,457000
+145,male,Elementary school graduate,Construction industry,Townhouse,yes,36,86000
+146,male,Elementary school graduate,Construction industry,Multi-family home,no,72,103000
+147,female,Doctorate,Insurance industry,Apartment,yes,24,150000
+148,other,Bachelor's degree,Manufacturing industry,Multiple home,no,35,303000
+149,other,Master's degree,Retail industry,Townhouse,no,86,477000
+150,other,Bachelor's degree,Fishing industry,Apartment,yes,36,245000
+151,male,Master's degree,Distribution industry,Multiple home,no,32,467000
+152,other,Master's degree,Retail industry,Multi-family home,no,85,442000
+153,other,High school graduate,Mining,Apartment,no,97,314000
+154,female,Master's degree,Retail industry,Townhouse,no,96,34000
+155,male,Bachelor's degree,Retail industry,Single-family home,no,6,276000
+156,male,Master's degree,Manufacturing industry,Apartment,no,80,410000
+157,female,Master's degree,Finance industry,Apartment,no,9,120000
+158,other,Middle school graduate,Water industry,Multiple home,no,35,93000
+159,female,Master's degree,Forestry,Apartment,yes,38,221000
+160,other,High school graduate,Distribution industry,Townhouse,yes,1,210000
+161,female,High school graduate,Insurance industry,Officetel,no,94,107000
+162,other,Elementary school graduate,Electric power industry,Single-family home,yes,4,414000
+163,male,Middle school graduate,Construction industry,Single-family home,no,43,116000
+164,female,Doctorate,Construction industry,Townhouse,no,55,129000
+165,male,High school graduate,Gas industry,Townhouse,yes,82,226000
+166,female,Master's degree,Wholesale industry,Officetel,no,50,461000
+167,female,Bachelor's degree,Maintenance industry,Multiple home,yes,58,345000
+168,male,Master's degree,Manufacturing industry,Apartment,yes,81,328000
+169,other,Bachelor's degree,Agriculture,Single-family home,no,72,366000
+170,male,Doctorate,Fishing industry,Multiple home,no,15,495000
+171,male,High school graduate,Finance industry,Apartment,yes,19,498000
+172,female,Master's degree,Finance industry,Multi-family home,no,69,469000
+173,female,Middle school graduate,Water industry,Officetel,no,18,228000
+174,male,Middle school graduate,Electric power industry,Multiple home,yes,49,298000
+175,male,Middle school graduate,Maintenance industry,Townhouse,no,88,396000
+176,female,High school graduate,Fishing industry,Multi-family home,no,82,94000
+177,female,Elementary school graduate,Construction industry,Apartment,yes,95,318000
+178,female,Doctorate,Manufacturing industry,Multiple home,yes,53,420000
+179,female,High school graduate,Construction industry,Multi-family home,no,23,129000
+180,male,Master's degree,Fishing industry,Apartment,yes,75,434000
+181,female,Bachelor's degree,Construction industry,Officetel,no,28,321000
+182,male,Master's degree,Agriculture,Townhouse,yes,68,79000
+183,other,Middle school graduate,Wholesale industry,Officetel,yes,9,164000
+184,other,High school graduate,Manufacturing industry,Apartment,yes,18,102000
+185,male,Elementary school graduate,Retail industry,Single-family home,no,47,191000
+186,other,High school graduate,Wholesale industry,Multi-family home,no,86,470000
+187,male,Elementary school graduate,Repair industry,Multiple home,yes,47,346000
+188,other,Doctorate,Manufacturing industry,Officetel,yes,20,85000
+189,male,Middle school graduate,Retail industry,Townhouse,yes,63,49000
+190,female,Elementary school graduate,Electric power industry,Multiple home,yes,30,416000
+191,female,Bachelor's degree,Broadcasting industry,Multiple home,yes,2,252000
+192,female,Elementary school graduate,Service industry,Single-family home,no,67,222000
+193,male,Doctorate,Electric power industry,Officetel,no,34,338000
+194,other,Master's degree,Electric power industry,Officetel,yes,68,14000
+195,female,Middle school graduate,Mining,Officetel,no,98,360000
+196,other,Elementary school graduate,Maintenance industry,Single-family home,yes,49,236000
+197,other,High school graduate,Service industry,Officetel,no,37,439000
+198,female,Middle school graduate,Construction industry,Officetel,yes,14,174000
+199,other,Middle school graduate,Mining,Townhouse,no,82,136000
+200,other,Master's degree,Retail industry,Single-family home,yes,29,69000
+201,other,High school graduate,Fishing industry,Apartment,yes,56,203000
+202,female,Middle school graduate,Construction industry,Single-family home,yes,12,430000
+203,male,Bachelor's degree,Distribution industry,Multiple home,no,49,286000
+204,male,Bachelor's degree,Service industry,Apartment,yes,81,420000
+205,female,Doctorate,Wholesale industry,Officetel,yes,38,490000
+206,female,Bachelor's degree,Agriculture,Multi-family home,yes,51,187000
+207,male,Elementary school graduate,Gas industry,Multiple home,no,4,212000
+208,female,Elementary school graduate,Retail industry,Townhouse,yes,94,341000
+209,female,Elementary school graduate,Mining,Multi-family home,yes,38,152000
+210,other,Doctorate,Fishing industry,Multi-family home,yes,13,188000
+211,other,Doctorate,Construction industry,Apartment,yes,34,438000
+212,male,Master's degree,Mining,Townhouse,yes,60,477000
+213,male,Elementary school graduate,Fishing industry,Multi-family home,yes,20,268000
+214,male,Middle school graduate,Fishing industry,Townhouse,no,74,238000
+215,male,High school graduate,Distribution industry,Townhouse,no,72,260000
+216,other,Elementary school graduate,Broadcasting industry,Multiple home,yes,79,324000
+217,male,Middle school graduate,Fishing industry,Single-family home,yes,88,107000
+218,female,Elementary school graduate,Wholesale industry,Single-family home,yes,63,233000
+219,female,Master's degree,Repair industry,Multiple home,yes,98,174000
+220,female,Master's degree,Water industry,Officetel,no,38,337000
+221,female,Elementary school graduate,Maintenance industry,Apartment,no,28,361000
+222,female,Elementary school graduate,Maintenance industry,Multi-family home,yes,79,62000
+223,male,Elementary school graduate,Wholesale industry,Apartment,yes,93,146000
+224,female,Master's degree,Distribution industry,Apartment,yes,21,91000
+225,female,Master's degree,Retail industry,Townhouse,no,76,294000
+226,male,Bachelor's degree,Gas industry,Officetel,yes,78,146000
+227,female,Doctorate,Forestry,Single-family home,yes,46,277000
+228,female,Elementary school graduate,Water industry,Townhouse,yes,44,355000
+229,male,Bachelor's degree,Insurance industry,Apartment,yes,97,303000
+230,other,Bachelor's degree,Forestry,Townhouse,no,6,211000
+231,male,Doctorate,Forestry,Multiple home,yes,57,70000
+232,female,Doctorate,Mining,Officetel,yes,93,229000
+233,male,Doctorate,Broadcasting industry,Townhouse,yes,85,320000
+234,male,Bachelor's degree,Construction industry,Single-family home,no,42,19000
+235,male,Master's degree,Insurance industry,Officetel,no,49,364000
+236,other,Middle school graduate,Maintenance industry,Multiple home,no,15,307000
+237,other,Middle school graduate,Repair industry,Townhouse,yes,1,82000
+238,other,Doctorate,Manufacturing industry,Townhouse,yes,69,278000
+239,other,Middle school graduate,Broadcasting industry,Townhouse,yes,85,323000
+240,other,High school graduate,Distribution industry,Apartment,no,49,432000
+241,other,High school graduate,Gas industry,Officetel,no,28,498000
+242,female,Doctorate,Distribution industry,Townhouse,no,61,300000
+243,male,Elementary school graduate,Construction industry,Multi-family home,yes,68,89000
+244,male,Middle school graduate,Electric power industry,Townhouse,no,93,178000
+245,other,Master's degree,Forestry,Apartment,no,45,22000
+246,other,High school graduate,Agriculture,Apartment,no,23,154000
+247,other,Elementary school graduate,Repair industry,Officetel,yes,1,338000
+248,male,Middle school graduate,Repair industry,Single-family home,no,7,80000
+249,other,Bachelor's degree,Broadcasting industry,Townhouse,no,62,118000
+250,other,Master's degree,Finance industry,Officetel,yes,80,195000
+251,female,Elementary school graduate,Broadcasting industry,Apartment,yes,47,66000
+252,male,Bachelor's degree,Wholesale industry,Apartment,no,87,86000
+253,male,Middle school graduate,Wholesale industry,Single-family home,yes,49,316000
+254,female,Middle school graduate,Gas industry,Officetel,no,10,455000
+255,male,Master's degree,Insurance industry,Officetel,yes,7,16000
+256,female,Elementary school graduate,Service industry,Townhouse,no,12,377000
+257,male,Doctorate,Service industry,Apartment,yes,96,50000
+258,male,Doctorate,Water industry,Apartment,yes,85,172000
+259,other,Bachelor's degree,Gas industry,Single-family home,no,62,368000
+260,other,Bachelor's degree,Insurance industry,Single-family home,yes,97,11000
+261,other,High school graduate,Construction industry,Multiple home,yes,52,184000
+262,other,Master's degree,Fishing industry,Single-family home,no,7,83000
+263,female,Bachelor's degree,Forestry,Apartment,no,29,169000
+264,male,High school graduate,Service industry,Townhouse,yes,24,328000
+265,male,High school graduate,Agriculture,Townhouse,yes,26,153000
+266,other,Master's degree,Forestry,Apartment,no,67,25000
+267,other,High school graduate,Wholesale industry,Apartment,yes,73,407000
+268,other,Middle school graduate,Repair industry,Officetel,yes,33,361000
+269,other,High school graduate,Fishing industry,Single-family home,no,82,47000
+270,female,Doctorate,Wholesale industry,Apartment,no,87,452000
+271,female,Master's degree,Forestry,Townhouse,no,88,10000
+272,male,Middle school graduate,Fishing industry,Apartment,yes,70,316000
+273,other,Master's degree,Manufacturing industry,Townhouse,yes,44,325000
+274,female,Bachelor's degree,Wholesale industry,Multi-family home,no,51,117000
+275,female,Elementary school graduate,Water industry,Multi-family home,no,20,178000
+276,other,Master's degree,Forestry,Apartment,no,87,357000
+277,male,Middle school graduate,Water industry,Single-family home,yes,63,175000
+278,female,Elementary school graduate,Wholesale industry,Officetel,yes,39,83000
+279,other,Doctorate,Service industry,Single-family home,yes,5,87000
+280,female,High school graduate,Wholesale industry,Officetel,no,80,421000
+281,other,Middle school graduate,Distribution industry,Townhouse,yes,35,114000
+282,female,Master's degree,Broadcasting industry,Single-family home,no,99,95000
+283,female,Middle school graduate,Repair industry,Apartment,yes,85,281000
+284,female,Elementary school graduate,Service industry,Multiple home,no,50,284000
+285,female,Doctorate,Forestry,Single-family home,no,62,239000
+286,male,Doctorate,Fishing industry,Single-family home,yes,20,274000
+287,male,Master's degree,Service industry,Townhouse,no,61,142000
+288,female,Elementary school graduate,Insurance industry,Multi-family home,no,31,141000
+289,other,Elementary school graduate,Broadcasting industry,Officetel,yes,87,190000
+290,female,Bachelor's degree,Agriculture,Single-family home,yes,29,326000
+291,other,Middle school graduate,Mining,Multiple home,yes,29,110000
+292,male,Master's degree,Water industry,Single-family home,no,94,317000
+293,male,Middle school graduate,Service industry,Townhouse,no,54,74000
+294,other,Master's degree,Finance industry,Multiple home,no,97,134000
+295,male,Master's degree,Distribution industry,Officetel,yes,68,46000
+296,male,Elementary school graduate,Construction industry,Multi-family home,no,16,182000
+297,female,Middle school graduate,Repair industry,Townhouse,yes,7,247000
+298,other,Middle school graduate,Wholesale industry,Multi-family home,no,35,424000
+299,female,Bachelor's degree,Service industry,Multi-family home,no,9,446000
+300,other,Elementary school graduate,Wholesale industry,Multiple home,yes,67,254000
