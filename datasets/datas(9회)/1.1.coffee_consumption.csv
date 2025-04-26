@@ -1,0 +1,193 @@
+country,continent,caffeine_concentration,Arabica_consumption,Robusta_consumption,Liberica_consumption,Excelsa_consumption,Geisha_consumption
+Afghanistan,Oceania,2.51,79,154,360,249,222
+Albania,Africa,0.99,173,392,311,444,64
+Algeria,Africa,0.79,499,416,109,349,303
+Andorra,Oceania,1.06,340,210,247,406,485
+Angola,Europe,0.87,90,172,345,60,216
+Argentina,Asia,1.16,93,185,147,488,143
+Armenia,Asia,0.86,424,252,180,500,299
+Australia,Asia,0.65,298,117,72,441,158
+Austria,Oceania,2.48,467,393,412,344,231
+Azerbaijan,Africa,1.99,85,380,273,244,458
+Bahamas,Oceania,2.56,439,203,50,294,182
+Bahrain,Oceania,2.8,322,284,316,53,224
+Bangladesh,South America,1.6,442,211,462,230,193
+Barbados,Africa,1.67,114,434,325,202,500
+Belarus,South America,1.26,115,87,401,435,355
+Belgium,North America,1.51,387,54,418,249,409
+Belize,Africa,1.18,293,284,429,486,500
+Benin,Africa,1.85,331,368,427,477,191
+Bhutan,Africa,1.59,134,338,393,264,334
+Bolivia,Asia,2,185,101,150,325,55
+Bosnia and Herzegovina,Asia,2.72,320,87,236,432,314
+Botswana,South America,2.34,496,325,270,426,147
+Brazil,South America,2.01,360,159,85,329,93
+Brunei,Africa,0.56,266,309,390,459,173
+Bulgaria,South America,1.07,158,185,219,358,418
+Burkina Faso,Asia,2.19,326,117,369,162,258
+Burundi,Oceania,2.65,436,228,210,299,300
+Cabo Verde,Oceania,1.97,423,85,389,162,334
+Cambodia,Oceania,0.55,403,500,484,189,438
+Cameroon,South America,2.41,152,175,113,273,173
+Canada,North America,2.55,415,239,418,298,403
+Central African Republic,Asia,1.94,209,195,203,64,293
+Chad,North America,2.41,254,130,309,249,380
+Chile,South America,0.94,393,274,208,222,414
+China,Europe,1.8,382,476,391,392,301
+Colombia,Africa,1.61,241,328,259,397,279
+Comoros,Asia,1.2,274,410,217,458,455
+Congo,Oceania,2.99,314,204,256,257,58
+Costa Rica,North America,1.59,281,363,406,420,97
+Croatia,Europe,2.54,111,463,201,134,200
+Cuba,Europe,2.92,176,384,333,480,163
+Cyprus,Asia,1.68,165,320,115,289,257
+Czech Republic,Asia,1.52,82,54,148,115,404
+Denmark,Europe,1.3,223,391,265,368,174
+Djibouti,Africa,0.76,60,468,390,323,206
+Dominica,Africa,0.9,351,333,244,63,389
+Dominican Republic,North America,1.53,333,203,396,251,347
+Ecuador,Africa,1.74,167,389,433,353,238
+Egypt,Europe,2.16,351,103,139,338,292
+El Salvador,Europe,1.5,162,499,365,389,333
+Equatorial Guinea,South America,2.4,53,118,341,63,321
+Eritrea,Europe,0.59,86,185,204,92,226
+Estonia,Africa,0.72,412,109,257,379,267
+Eswatini,Oceania,1.13,373,104,330,269,431
+Ethiopia,North America,0.79,80,430,476,119,331
+Fiji,South America,2.43,167,333,50,493,219
+Finland,Africa,2.66,84,129,205,286,230
+France,North America,2.56,66,189,196,143,409
+Gabon,Africa,0.5,490,194,157,75,282
+Gambia,South America,2.67,219,359,270,183,188
+Georgia,Europe,1.65,86,157,452,244,206
+Germany,Oceania,0.64,313,417,346,217,178
+Ghana,South America,1.8,171,225,360,158,168
+Greece,Europe,2.06,192,154,385,282,111
+Grenada,South America,1.75,392,401,214,217,419
+Guatemala,Asia,1.61,298,374,288,222,148
+Guinea,Oceania,0.63,159,486,276,439,211
+Guinea-Bissau,Africa,1.17,326,185,276,500,111
+Guyana,Africa,0.83,117,308,395,244,430
+Haiti,Oceania,1.22,420,300,159,192,324
+Honduras,Asia,2.7,342,178,311,435,440
+Hungary,Europe,1.71,345,483,292,475,403
+Iceland,Africa,0.57,292,76,456,265,144
+India,Asia,2.08,174,97,457,179,148
+Indonesia,Africa,2.5,451,374,426,477,160
+Iran,North America,2.27,292,266,136,91,428
+Iraq,Europe,1.28,463,474,387,290,297
+Ireland,North America,0.53,258,191,93,59,191
+Israel,Oceania,1.52,147,72,195,433,420
+Italy,Europe,1.06,98,51,313,326,351
+Jamaica,Asia,2.6,99,220,389,76,439
+Japan,Europe,0.78,387,444,374,229,318
+Jordan,Europe,2.87,270,116,367,164,355
+Kazakhstan,Asia,2.12,231,376,221,382,194
+Kenya,Oceania,0.88,266,184,97,85,101
+Kiribati,Europe,2.83,260,132,469,449,476
+Kuwait,Oceania,1.23,289,429,434,383,149
+Kyrgyzstan,Oceania,2.26,492,276,170,70,201
+Laos,Oceania,1.54,423,332,394,436,166
+Latvia,Africa,1.71,77,411,208,65,234
+Lebanon,South America,1.68,394,268,165,176,141
+Lesotho,Oceania,1.64,384,337,462,152,204
+Liberia,Asia,0.86,380,54,151,479,57
+Libya,South America,0.98,100,107,125,60,412
+Liechtenstein,Oceania,2,81,88,62,368,323
+Lithuania,Asia,2.37,256,403,73,128,114
+Luxembourg,Asia,0.84,422,126,175,172,190
+Madagascar,North America,0.67,223,329,293,114,73
+Malawi,North America,2.43,459,68,362,292,77
+Malaysia,Europe,2.64,491,477,485,392,333
+Maldives,Oceania,1.35,105,239,443,108,199
+Mali,Oceania,2.47,177,348,87,338,407
+Malta,South America,1.17,148,332,283,161,114
+Marshall Islands,Asia,0.51,147,125,262,288,376
+Mauritania,Oceania,2.32,324,270,372,408,494
+Mauritius,Europe,2.59,279,115,344,181,435
+Mexico,Africa,1.95,121,71,149,442,301
+Micronesia,Asia,2.15,266,207,417,238,102
+Moldova,Africa,2.66,143,236,406,135,496
+Monaco,Europe,1.62,192,457,246,360,56
+Mongolia,North America,1.71,286,490,303,360,343
+Montenegro,Europe,1.33,177,70,254,432,195
+Morocco,Africa,2.41,497,233,174,417,290
+Mozambique,Asia,1.44,88,157,125,108,295
+Myanmar,South America,2.83,276,399,385,448,275
+Namibia,Oceania,2.67,463,177,402,469,224
+Nauru,Europe,2.95,491,391,52,133,144
+Nepal,Asia,1.1,488,102,434,209,76
+Netherlands,Oceania,1.46,331,231,490,105,179
+New Zealand,North America,2.64,100,449,444,346,491
+Nicaragua,North America,1.53,75,336,104,63,294
+Niger,Oceania,1.3,383,497,448,209,108
+Nigeria,North America,1.68,326,258,267,344,470
+North Korea,Asia,2.78,478,367,162,396,83
+North Macedonia,Europe,1.45,57,433,140,242,255
+Norway,Asia,2.97,97,129,461,253,301
+Oman,Asia,2.48,435,171,406,416,87
+Pakistan,Oceania,2.13,484,492,315,151,345
+Palau,South America,0.88,171,133,287,88,372
+Panama,South America,2.91,135,459,75,353,401
+Papua New Guinea,Europe,0.82,258,465,335,403,77
+Paraguay,Oceania,2.91,298,140,177,475,127
+Peru,South America,1.33,296,261,484,371,126
+Philippines,North America,0.75,159,62,112,174,465
+Poland,South America,2.61,492,141,283,102,338
+Portugal,North America,0.75,255,427,118,406,205
+Qatar,Europe,2.78,80,220,460,445,93
+Romania,Asia,0.54,134,450,287,204,177
+Russia,Asia,0.86,244,260,391,485,110
+Rwanda,South America,2.68,51,460,321,400,335
+Saint Kitts and Nevis,North America,2.92,249,392,336,357,441
+Saint Lucia,Africa,0.69,185,492,354,462,263
+Saint Vincent and the Grenadines,Africa,2.45,451,426,212,111,360
+Samoa,Africa,1.16,451,465,436,457,355
+San Marino,Asia,2.06,282,177,276,339,454
+Sao Tome and Principe,Oceania,1.49,196,186,363,450,366
+Saudi Arabia,Asia,0.7,266,131,467,71,165
+Senegal,Oceania,1.32,406,453,418,227,447
+Serbia,North America,2.19,424,409,308,322,317
+Seychelles,South America,1.83,451,105,268,269,244
+Sierra Leone,Africa,2.89,334,245,475,388,280
+Singapore,North America,2.07,388,496,330,239,276
+Slovakia,North America,2.72,417,69,278,85,202
+Slovenia,South America,1.72,299,489,131,309,490
+Solomon Islands,North America,1.85,129,290,430,381,351
+Somalia,South America,2.04,147,163,491,224,269
+South Africa,Europe,1.09,201,152,293,56,206
+South Korea,South America,2.21,161,468,280,484,341
+South Sudan,Africa,1.22,79,285,182,265,367
+Spain,Oceania,1.07,346,229,434,471,80
+Sri Lanka,Oceania,0.73,426,206,176,300,362
+Sudan,Africa,2.95,327,470,480,104,428
+Suriname,Oceania,2.4,81,457,376,271,100
+Sweden,South America,2.26,432,496,191,235,440
+Switzerland,Europe,0.75,210,166,442,375,156
+Syria,Oceania,0.92,79,164,448,474,370
+Taiwan,Europe,1.25,75,62,316,285,158
+Tajikistan,Africa,0.57,349,387,298,412,185
+Tanzania,Europe,1.31,294,148,370,128,388
+Thailand,North America,0.64,307,254,172,272,91
+Timor-Leste,Asia,1.4,486,218,190,140,130
+Togo,North America,1.58,321,192,275,425,172
+Tonga,Africa,1.11,130,492,89,317,138
+Trinidad and Tobago,Oceania,1.53,79,85,415,383,332
+Tunisia,Oceania,2.2,310,445,196,188,88
+Turkey,Europe,0.95,91,192,170,365,130
+Turkmenistan,South America,0.94,485,229,189,463,51
+Tuvalu,Asia,2.02,145,378,221,325,259
+Uganda,South America,1.46,85,310,213,446,280
+Ukraine,Africa,2.21,354,254,326,297,402
+United Arab Emirates,Oceania,1.74,84,397,91,288,354
+United Kingdom,Europe,1.96,395,481,120,273,290
+United States,Oceania,1.08,491,324,127,472,199
+Uruguay,South America,2.09,170,219,168,424,66
+Uzbekistan,South America,1.65,256,64,246,353,168
+Vanuatu,Asia,2.17,111,109,405,187,197
+Vatican City,Asia,2.75,341,499,128,215,411
+Venezuela,Europe,1.66,176,183,411,486,194
+Vietnam,Asia,1.22,346,141,159,175,409
+Yemen,South America,1.87,354,347,82,475,490
+Zambia,South America,0.68,70,185,262,94,282
+Zimbabwe,Africa,2.86,367,69,258,192,86
